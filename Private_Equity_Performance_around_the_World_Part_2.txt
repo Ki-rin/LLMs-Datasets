@@ -1,0 +1,1936 @@
+ttheS&P500asaperfor-
+mancemeasure.
+12
+Wetabulatetheresultsbyinvest-
+mentstrategyandinvestmentgeographyin
+Table 6
+.
+Forbuyoutfunds,we
+
+ndevidenceofperformance
+persistenceforfundswithaEuropeanorglobal
+focus.InEurope,top-quartilefundshavea53.5%of
+repeatingwithinthetopquartile,signi
+
+cantat1%.
+Bottom-quartilefundsrepeatwitha50%chance
+withinthebottomquartile,alsosigni
+
+cantat1%.
+Thisshows signi
+
+cantpersistenceatboth endsof
+thereturndistribution,withtopperformersconsis-
+tentlyremainingtopperformersandworseperform-
+ers consistentlybeingworseperformers.Inaddition,
+thereisstrongmarketsegmentationatthetopof
+thereturndistribution,whichislesspronouncedfor
+fundsreturninglessthanthemarketmedian(third
+andfourthquartiles).Lookingattheintermediate
+quartiles,thesecond-bestfunds(secondquartile)
+haveaverylowprobability(transition probability
+¼
+8.9%)ofmaking thetopquartile ontheir nextfund,
+comparedtoremainingsecond-best(transition proba-
+bility
+¼
+37.8%),whilethethird-quartilefundshave
+relativelysimilarprobabilityofperformingworseon
+their nextfund(transition probability
+¼
+27.3%)than
+remainingthird-quartilefunds(transition probability
+¼
+29.6%).Thesepatternsaresimilarbutstronger for
+globalfunds,wherepersistenceisaround60%for
+top-andbottom-quartilefunds,signi
+
+cantat1%.
+Marketsegmentationisalsomorepronouncedfor
+above-andbelow-medianfunds,withsecond-best
+globalfundshavingevenlowerprobability(6.3%)of
+repeatinginthetopquartile comparedtoEuropean
+second-quartilefundsandthird-quartileglobalfunds
+showinga35.3%chanceofrepeatinginthebottom
+quartile.The test forperformancepersistenceinthe
+groupsoffundsthatarefocusedonAsia-Paci
+
+cor
+otherworldlocationsisnotsigni
+
+cant,at
+p
+valuesof
+0.128and0.894, respectively. Thisshows thatper-
+formanceoverthenextgenerationsoffundsisnot
+explainedbyparticularGPskillinthesegeographies.
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+112
+
+Table 6.
+PerformancePersistence
+Buyouts
+Growthequity Venturecapital
+CurrentfundquartileCurrentfundquartile Currentfundquartile
+Previous
+fundquartile1234N
+Previous
+fundquartile1234 N
+Previous
+fundquartile1234N
+Asia-Paci
+
+c Asia-Paci
+
+cAsia-Paci
+
+c
+1st(top)33.3%33.3%16.7%16.7%121st(top)33.3%11.1%22.2%33.3%91st(top)33.3%33.3%33.3%0.0%3
+2nd7.7% 30.8%30.8%30.8%132nd11.1%55.6%22.2%11.1%92nd50.0%0.0%0.0%50.0%4
+3rd25.0%8.3%41.7%25.0%123rd0.0%11.1%33.3%55.6%93rd0.0% 33.3%33.3%33.3%3
+
+4th(bottom)15.4%0.0%23.1%61.5%134th(bottom)22.2%22.2%44.4%11.1%94th(bottom)0.0%0.0%75.0%25.0%4
+PearsonChi
+2
+p
+value
+¼
+0.128PearsonChi
+2
+p
+value
+¼
+0.141PearsonChi
+2
+p
+value
+¼
+0.304
+EuropeEuropeEurope
+1st(top)53.5%27.9% 9.3%9.3% 431st(top)33.3%66.7%0.0%0.0%31st(top)50.0%16.7% 0.0%33.3%6
+
+2nd8.9% 37.8%24.4%28.9%452nd100.0%0.0%0.0%0.0%32nd16.7%50.0%16.7%16.7%6
+
+3rd25.0%18.2%29.6%27.3%443rd0.0%0.0%66.7%33.3%33rd16.7%16.7%50.0%16.7%6
+
+4th(bottom)7.0%4.6%38.6%50.0%444th(bottom)0.0%0.0%33.3%66.7%34th(bottom)0.0% 16.7%50.0%33.3%6
+PearsonChi
+2
+p
+value
+¼
+0.000PearsonChi
+2
+p
+value
+¼
+0.023PearsonChi
+2
+p
+value
+¼
+0.325
+ROWROWROW
+1st(top)0.0% 25.0%50.0%25.0%41st(top)100.0%0.0%0.0%
+Œ
+11st(top)66.7%33.3% 0.0%0.0%3
+2nd20.0%20.0%20.0%40.0%52nd0.0% 100.0%0.0%
+Œ
+22nd25.0%25.0% 0.0%50.0%4
+3rd0.0% 25.0%25.0%50.0%43rd0.0%0.0%100.0%
+Œ
+13rd0.0% 50.0% 0.0%50.0%4
+4th(bottom)0.0% 20.0%20.0%60.0%54th(bottom)0.0%50.0%50.0%
+Œ
+24th(bottom)0.0% 25.0%50.0%25.0%4
+PearsonChi
+2
+p
+value
+¼
+0.894PearsonChi
+2
+p
+value
+¼
+0.147PearsonChi
+2
+p
+value
+¼
+0.178
+GlobalGlobalGlobal
+1st(top)56.3%37.5% 6.3%0.0% 161st(top)0.0%0.0%50.0%50.0%21st(top)33.3%16.7%50.0%0.0%6
+
+2nd6.3% 43.8%31.3%18.8%162nd66.7%0.0%0.0% 33.3%32nd28.6%42.9%28.6%0.0%7
+
+3rd29.4%11.8%23.5%35.3%173rd0.0%33.3%66.7%0.0%33rd0.0% 50.0%16.7%33.3%6
+
+4th(bottom)0.0%6.3%31.3%62.5%164th(bottom)0.0%33.3%33.3%33.3%34th(bottom)0.0%0.0%42.9%57.1%7
+PearsonChi
+2
+p
+value
+¼
+0.000PearsonChi
+2
+p
+value
+¼
+0.332PearsonChi
+2
+p
+value
+¼
+0.067
+North AmericaNorth AmericaNorthAmerica
+1st(top)46.0%30.0%14.0%10.0% 1501st(top)48.7%27.0%16.2%8.1%371st(top)43.6%21.4%21.4%13.7% 117
+
+2nd18.5%27.8%36.4%17.2% 1512nd40.5%24.3%24.3%10.8%372nd32.5%29.1%18.8%19.7% 117
+
+3rd15.9%24.5%33.1%26.5% 1513rd10.8%16.2%43.2%29.7%37 3rd17.1%28.2%32.5%22.2% 117
+
+4th(bottom)8.7% 16.1%24.8%50.3% 149 4th(bottom)8.3%19.4%27.8%44.4%364th(bottom) 14.4%19.5%26.3%39.8% 118
+PearsonChi
+2
+p
+value
+¼
+0.000PearsonChi
+2
+p
+value
+¼
+0.000PearsonChi
+2
+p
+value
+¼
+0.000
+Notes:
+ThistableshowsM arkovtr ansitionprobabilitiesr esultsbyfundper for mancequar tile,using thePMEag ainst the S&P500asaperformance measure.On
+lyfunds thathaveatleast
+onefollow-onfu ndareincludedintheanalyses.Fu ndsaresortedintoperformancequ artilesbasedontheirPMEsandsequenc enu mbers.Transitionpro
+babilitiesareth eprobabilitiesth at
+afu n dfallsinan yofth eperforman cequartiles,c on dition alonitspreviou sfu n dqu artile.Wereport
+p
+valuesofPearsonChi
+2
+testsforpersistenceineachinvestmentregionandshowsep-
+arateresultsforbuyouts,growthequity,andventurecapital funds. ThedataareasofJuly2023.Thede
+
+nitions ofallter msandvariables are providedin
+Table1
+.
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+113
+
+For comparison,we calculatethetransitionprobabili-
+tiesfortheNorth American
+Œ
+focusedfundsinour
+sampleandcon
+
+rmthe
+
+ndingsofthepreviousliter-
+atureonbuyoutperformancepersistence,signi
+
+cant
+at1%.PersistenceinNorth Americaissomewhat
+
+lesspronouncedthanforglobalorEuropeanfunds,
+
+andthemarketdynamicsarealsodifferent. InNorth
+America,itseemsthatthebuyoutfundreturndistri-
+butionislessskewed,withthehighesttransition
+
+probabilitiesofthecurrentfundsrelativelyremaining
+
+inthesamequartilesasthepreviousfunds.
+
+Transitionprobabilitiesacross quartilesforthesec-
+ond- andthird-quartilefundsarealsolessseg-
+mented.Particularly, thereishigherprobabilityfor
+
+thesecond-bestfundsofmaking atop-quartileper-
+
+formanceoverthenextfundthanpreviouslynoted
+
+forglobalandEuropeanfunds.Theseresultspoten-
+tiallyhighlighttheimportanceofGPaccessin
+Europeanandglobalfunds,whereonly limitedpart-
+
+ners(LPs)withaccesstotop-quartilefundmanagers
+
+gettoconsistentlyreapthehighestreturns.
+Wedonot
+
+ndevidenceofperformancepersistence
+inAsia-Paci
+
+candROWforgrowth andventurecap-
+italfunds.Thetransitionprobabilitiesinthesegeog-
+
+raphiesarecompletelyrandom:
+p
+valuesinAsia-
+Paci
+
+candROWare,respectively,0.141and0.147
+forgrowth fundsandamountto0.304and0.178,
+respectively,forventurecapitalfunds.Globalfunds
+withinthesestrategiesalsoshowsimilarpatterns,
+
+whereas theonly evidenceofpersistenceiswithin
+
+thegrowth equityfundsinEurope,signi
+
+cantat5%.
+However,these
+
+ndingsmightpotentiallybedriven
+bythesmall samplesizesintheseinvestmentstrate-
+gies,whichfutureanalyses willallowtoverifyas
+moredataongrowth andventurecapitalfunds
+
+becomeavailableovertime.Therecentboomofpri-
+
+vateequityinAsiaasof2020mightalsogivedirec-
+
+tionformoreresearchontheobserved trendsinthis
+geography.Unfortunately,we cannotcapture these
+developmentscurrentlywithourdata,asthecover-
+
+ageoftherecentlyformedfundsisongoingand
+
+mostlistedfundsarenaturallylackingperformance
+
+information.
+13
+InNorth America,we
+
+ndevidenceof
+signi
+
+cantperformancepersistenceforboth growth
+andventurecapitalfundsatboth endsofthedistri-
+
+bution:Topperformersareconsistentlytopperform-
+
+ers,andthesameistrueforbottom-quartilefunds.A
+
+particularlyinterestingresultisthemarketcon
+
+gura-
+tionwithinthesestrategies,wheresecond-quartile
+fundshavehigherchancesofmaking thetopquartile
+
+thanrepeatingintheir ownquartile overthenext
+
+funds.TheseresultsonNorthAmericanfundsare
+qualitativelysimilartorecent
+
+ndingsintheliterature
+(Harrisetal.
+2023
+).
+DiscussionoftheResults
+Inthissection,we discusssomeoftheimplications
+ofthepreviouslyhighlightedconclusionsonfund
+
+performancesaroundtheworldandprovide more
+analyses ofthepotentialdriversandcaveatsthat
+mightaffecttheobserved trends.
+AccesstoLocalManagersandOther
+ImplicationsforFundInvestors.
+Ourresults
+areusefulforthegeneralprivateequityinvestorwho
+
+woulduseanoverallviewofthegeneralmarket
+stateanddynamics,especially fundLPswhodonot
+haveaccesstothebestlocalGPsinthestudied
+
+geographiesandlook attheaveragemetrics.Fund
+investorswithlocalGPconnections,however,tend
+toanalyzemarketmediansandfundquartile per-
+
+formancesasbenchmarks, astheyprovide ameasure
+forthetypicalobserved performance.In
+Table 7
+,we
+showtheaveragefundperformancemeasuresby
+
+quartile andmapwhereinvestorsmightreapreturn
+bene
+
+tsinthestudiedgeographies.
+Top
+-
+quartile fundsnaturallyshowthehighestreturns
+acrossallinvestmentstylesandgeographies,but
+since itisdif
+
+cultformostinvestorstospotandpick
+top
+-
+quartile fundmanagers(Sensoy,Wang,and
+Weisbach
+2014
+),onecandrawimportantimplica-
+tionsfromcrossingthequartile analyses withthe
+previousresultsonfundreturns.Threeimportant
+
+observationsemergefromlookingatfundquartile
+properties.First,comparing thesecondquartile aver-
+ageperformancemeasuresineachgeography and
+
+each investmentstyletotheoverallaverageperfor-
+mancemeasuresfrom
+Tables3 through5
+shows that
+thedistributionofreturnsisapproximatelyuniform
+
+insomegeographies,asthemedianvaluesapproach
+theoverallaverageperformancevalues.Forexample,
+forbuyoutfundsinAsia
+-
+Paci
+
+c,theoverallaverage
+IRRfrom
+Table 3
+isaround10%,andtheaverage
+second-quartileIRRfromthecurrenttable(
+Table 7
+)
+inthissamegeographyis14.93%.Similarly,theover-
+
+allaveragebuyoutPMEagainsttheS&P500inAsia-
+Paci
+
+cfrom
+Table 4
+is0.69,whilethesecond-quar-
+tileaveragePMEfromthecurrenttableis0.88.
+
+Hence,boththetypical(i.e.,median)andtheaverage
+fundyieldqualitatively similarreturns,meaningthat
+boththefundinvestorwhohasaccesstothebest
+
+managersinAsia
+-
+Paci
+
+c(thosewithreturnsabove
+themedian)andthefundinvestorwhoiswiththe
+averagefundmanagerreapsimilarreturns.
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+114
+
+Table 7.
+AverageFundPerformanceMeasuresbyQuartile
+1st(topquartile)2ndQuartile3rdQuartile4th(bottomquartile)
+Number
+offunds
+PME
+S&P500
+IRR
+(%)Multiple
+Number
+offunds
+PME
+S&P500
+IRR
+(%) Multiple
+Number
+offunds
+PME
+S&P500
+IRR
+(%)Multiple
+Number
+offunds
+PME
+S&P500
+IRR
+(%)Multiple
+Buyouts
+Asia-Paci
+
+c 101.5921.922.56280.8814.931.66260.515.031.1670.28
+
+14.600.73
+Europe562.0827.762.41990.8415.901.58550.545.891.19160.31
+
+17.370.69
+ROW41.1126.542.2570.9011.221.62110.416.021.3960.27
+
+11.310.51
+Global393.4428.112.53311.5113.651.66250.519.091.14120.27
+
+5.660.67
+North America2222.0226.422.503130.9915.221.601720.634.101.08710.33
+
+16.640.67
+Growthequity
+Asia-Paci
+
+c 122.1828.973.05180.7017.001.80190.425.961.0860.26
+
+11.880.66
+Europe31.1836.062.49110.9713.581.6740.573.941.1240.06
+
+13.800.61
+ROW10.8425.603.6531.2022.251.5090.465.511.2810.29
+
+5.300.96
+Global31.7723.992.4550.6313.872.1480.61
+
+8.261.0830.15
+
+13.530.57
+North America441.7829.032.66720.9316.961.62510.574.181.10240.23
+
+10.990.70
+Venturecapital
+Asia-Paci
+
+c33.1716.902.82111.0117.102.12100.484.651.2980.19
+
+7.230.51
+Europe51.7426.902.33150.9310.341.68180.643.861.1360.24
+
+6.730.75
+ROW42.2953.622.7341.0415.111.5860.644.331.1170.32
+
+10.450.66
+Global202.4134.222.91151.659.462.4570.462.591.13110.12
+
+10.760.44
+North America1142.6550.013.901660.9114.231.711480.641.271.101600.30
+
+12.920.61
+Notes:
+ThistableshowstheaveragePMEagainsttheS&P500,theaverageIRR,andtheaverageinvestment multiplebyfundquartile across investment strategi
+esandregions.The
+dataareasofJuly2023.Thede
+
+nitionsofalltermsandvariablesareprovidedin
+Table1
+.
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+115
+
+Alternatively,ingeographieswheretheaveragefund
+valuesdeviatesigni
+
+cantlyfromthemedian(second
+quartile)values,accesstothebestGPsismore
+
+important.Thisisthecaseforglobalbuyouts,for
+instance. Theseeffectsareinlinewithourprevious
+conclusionsonmarketsegmentationintheperfor-
+mancepersistenceanalyses,wherewe have
+highlightedtheconcentrationofreturnsincertain
+
+quartilesandthelevel oflikelihoodwithwhichfund
+managerscanmoveacrossquartiles.Thesecond
+importantobservationisthedistributionofthenum-
+
+beroffundsacrossquartiles,especially theoverall
+numberoffundsaboveandbelowthemedian(the
+sumoffundsinthetopandsecondquartilesversus
+thesumoffundsinthethirdandbottomquartiles).
+Thisisparticularlyimportantforthefundinvestor,
+
+forwhomthelikelihoodofbeing withtheabove
+medianfundistightly relatedtothenumberoffunds
+availableinthemarketoneachsideofthedistribu-
+tion.Toillustrate,forbuyoutfundsinEurope,there
+areroughlytwicemorefundsabovethemedian
+
+(56
+þ
+99
+¼
+155funds)astherearebelowthemedian
+(55
+þ
+16
+¼
+71funds),whichgives afundinvestora
+goodchancetopickanabove
+-
+medianfund(a 70%to
+30%chance),whereas takingtheexampleofventure
+capitalfundsinAsia-Paci
+
+cshowsthatthereare
+morefundsbelowthemedianthanfundsinthemar-
+ketabovethemedian,whichmakes thechancesof
+beingwithaworse
+-
+performingfundrelativelyhigher.
+Finally,thelastimportantimplication relatestothe
+level ofdispersioninreturnsfromlookingatthegap
+inaveragequartile performancebetweenthetopand
+thebottomquartilesbyinvestmentstyleandgeogra-
+phy. Thelargerthedifferenceinreturnsbetweenthe
+
+topandthebottomquartiles,themorevolatilethe
+returns,whichisariskparameterforfundinvestors.
+For example,venturecapitalIRRsinROWfundscan
+
+varyfromanimpressive54%inthetopquartile to
+
+10%inthebottomquartile,whichishighlyvolatile.
+Thisisparticularlyinlinewiththe
+
+ndingsofLerner
+andBaker(
+2017
+)intheir analyses ofemergingmar-
+ketfundIRRs,whichtheROWgrouptendstocon-
+
+centrateinourdata.Readingtheperformance
+analyses hereinwiththisspectrumcanyieldimpor-
+tantinsights forinvestors,depending ontheir geo-
+graphicalfocusandinvestmentstylepreferences.
+CapitalInflowsandFollow-onFund
+Performance.
+Awidelyadmittedpredictorfor
+futurefundperformanceistheamountofcapital
+
+owsintheindustry.Priorliteraturehasfound that
+largecapitalin
+
+owsdrivefundinvestmentvaluations
+up,whichsubsequentlyresultsinlowerfundper-
+formancesasmarkets correctforin
+
+atedvaluesat
+exit.Thiseffect isshowntobemorepronounced
+when thereissigni
+
+cantmarketcompetition
+(GompersandLerner
+2000
+;Harris,Jenkinson,and
+Kaplan
+2014
+).Existingliteraturealsoshows thatthe
+market-timingabilities offundmanagersallowthem
+tocircumventsuchcaveats(Jenkinsonetal.
+2022
+).
+Wetest whetherthisisthecaseandreportthe
+
+resultsin
+Table 8
+.
+Foreach investmentgeographyandeach fund
+i
+,we
+regressthe
+PME
+i
+againstthenaturallogarithmof
+fundsize(ln
+ð
+size
+i
+Þ
+),thefund
+™
+srealizationrate
+(
+pct
+realized
+i
+),andthefund
+™
+ssequencenumberwithin
+thefundfamily(
+Seq
+i
+Þ
+:
+WeusethefundPMErelative
+totheS&P500asaperformancemeasureforthis
+test
+14
+andestimatethebelowmodel:
+E
+ð
+PME
+i
+Þ¼
+b
+0
+þ
+b
+1
+:
+ln
+ð
+size
+i
+Þþ
+b
+2
+:
+pct
+realized
+i
+þ
+b
+3
+:
+Seq
+i
+þ
+s
+i
+þ
+r
+i
+þ
+q
+i
+Weincl udevintageyear(
+s
+i
+Þ
+,investmentstr ategy
+(
+r
+i
+Þ
+,and
+
+rm(
+q
+i
+)d u mmyvariab lestocon trol for
+unobservableti meeffects,investmentstylechar-
+
+acteristics,andspeci
+
+cGPskill.Theeffectof
+fund in
+
+owsiscapturedbytherelationship
+bet weenthePME andthesizeofthefund(
+b
+1
+).
+Rea lizationratesandfundsequenc e numberspro-
+videinsightsaboutwhetherthereareeffectsto
+fundmaturityandG Plear ningint hesegeogra-
+
+phies, aspredictedbyth eoretical wo rkinF an g
+(
+201 9
+)anddeal-levelanalysesinSannajustand
+Gr oh(
+20 20
+).
+Theresultsindicatethatglobalfundperformancesdo
+notseemtobedrivenbyanyoftheeffectsreported
+intheliterature, potentiallyduetotheir high geo-
+
+graphicaldiversi
+
+cation.Similarconclusionsapplyto
+Asia-Paci
+
+candROW,wherehigherfund
+
+owsdo
+notresultinlowerperformances.Althoughstatisti-
+
+callyinsigni
+
+cant,thepositiveloadingsonfundreali-
+zationratesinthesegeographiespredictthatfund
+performancesgetbetterasfundsmatureandinvest-
+mentssell.Futureresearchwillhelpunderstand
+
+thesemarkets betterasmorefunddatabecome
+available.Similarly,eventhoughtheloadingsonfund
+sequencenumbersinAsia-Paci
+
+carenotsigni
+
+cant,
+theyindicatethatfundperformancesincreasewith
+managerexperience,potentiallyhighlightinglearning
+effects.Interestingly, Europeanfundreturnsseemto
+
+bedrivenbysimilarmarketdynamicsthanwhatis
+documentedinNorthAmerica(whichwe alsocon-
+
+rminourdata):Large capitalin
+
+owsnegativelyand
+signi
+
+cantlyaffectfollow-onfundperformance.A
+$10millionincreaseinfundsizeresultsinthefund
+PMEdecliningbyaround0.49,signi
+
+cantatthe1%
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+116
+
+level.Europeanprivateequityseemstoalsoshow
+earlysignsofthemarketmaturing.Theregression
+
+coef
+
+cients ontherealizationratesandfund
+sequenceimplyminimalmarginalimpactonperfor-
+
+mancecomparedtofundsize,ascurrentfundsreal-
+
+izeandfollow-onfundsareformed,althoughthe
+
+coef
+
+cientestimatesareinsigni
+
+cant.Thesenegative
+relationshipspredictapathforEuropeanfundper-
+
+formancesthatissimilartoNorth Americanfunds:
+
+Theliteraturehaslargelydocumentednegativerela-
+
+tionshipsbetweenlargecapitalin
+
+uxandsubsequent
+fundperformance(Brownetal.
+2020
+)anddeclining
+fundperformancesovertime(BrownandKaplan
+
+2019
+).
+PotentialEffectsofSelectionBiasor
+OverallDataQuality.
+Intheir study comparing
+thequality ofprivateequitydataproviders,Harris,
+
+Jenkinson,andKaplan(
+2014
+)usedatafromBurgiss
+asabenchmarktotest whetherothercommercial
+
+databasesyieldsimilarresults. AstheBurgissdata
+
+aresourceddirectlyfromthelimitedpartners,the
+
+authors arguethatitislesssubject toselection
+
+issuesasfundLPshavenoincentivetoselectively
+
+report.Harris,Jenkinson,andKaplan(
+2014
+)also
+highlightthattheBurgissdataareextensivelycross-
+
+checkedtoensure goodquality.Arguably,fundGPs
+
+mightbemorepronetoselectionbiastoattract
+
+morefunds,althoughrecentresearchsuggestsnot
+
+(Brown,Gredil,andKaplan
+2019
+).Totest whether
+ourdataisaffectedbyselectionbias,we usetheir
+
+methodologyandreplicatetheir main
+
+ndingson
+North Americanfundsusingourcombinedsample
+
+fromPreqinandEurekahedge.Ifourdatayieldsimi-
+
+larresultsthanwhatiswidelyadmittedforNorth
+
+America,thenaccordingtothemethodologyof
+
+Harris,Jenkinson,andKaplan(
+2014
+),thedataareof
+goodquality andcanbeextendedtostudyingother
+geographies.For thepurposesofthereplication,we
+
+cutoursampleofNorth Americanfundsatthe2015
+
+vintagestomatchtheir universeoffunds,andwe
+alsocomparethe
+
+ndingswithpreviousresearchthat
+usedotherdata(RobinsonandSensoy
+2011
+;Kaplan
+andSchoar
+2005
+)aswellaswithmorerecent
+researchthatusesBurgiss(Harrisetal.
+2023
+).For
+thereader
+™
+sreference,thesesupportinginformation
+areavailableanddetailed inthe
+OnlineAppendix,
+TablesS1throughS4
+.We
+
+ndthatourdatayield
+resultsthatareinlinewiththeliterature.
+Inaddition,we usethesampleoftheoverlapping
+fundsinPreqinandEurekahedgetotest whether
+fundinformationinboth sourcesyieldsimilarperfor-
+manceresults. For thistest,we requirethatthecom-
+
+monfundshavethesamelengthofcash
+
+owtime
+seriesandthatalltheir performancemeasuresare
+reportedandcomplete inbothdatasources.
+15
+Acrossallmeasuresusedinthispaper,a
+t
+test for
+thedifferenceinmeansoftheperformancemeasures
+
+isinsigni
+
+cant,showingthatbothdatasourceshave
+similarquality.Thisresultisreportedin
+TableS5
+in
+theOnlineAppendix.Theonly measurewhere
+
+Eurekahedge seemstounderstatefundreturnsisthe
+PMEresultusingtheS&PAsiaasabenchmark,
+whichdoesnotcross-question theoverallconclu-
+
+sions acrosstheothermeasuresinthisinvestment
+
+geography.
+Furthermore,Sensoy,Wang,andWeisbach(
+2014
+)
+showthatperformancepersistenceishardlyinvest-
+
+ableforfundLPs,astheycannotalways pickthe
+
+top-quartileGPsorconsistentlycommittothebest
+fundsovertime.Thus,performancereporting by
+fundinvestorsinEurekahedge (aswellasinother
+Table 8.
+TheRelationshipbetweenCapitalIn
+
+owsandFollow-onFundPerformance
+DependentVariable
+¼
+PME(S&P500)
+Asia-PacificROWGlobalEuropeNorthAmerica
+LN(size)
+
+0.1320.0020.118
+
+0.204
+
+
+0.115
+Realization rate0.0120.5170.4680.1420.448
+
+Fundsequencenumber0.065
+
+0.007
+
+0.0220.064
+
+0.01
+Constant2.115
+
+0.6241.461.428
+
+0.297
+Vintageyear,investmentstyleand
+
+rmdummiesYesYesYesYesYes
+Adj.
+R
+2
+0.390.580.410.600.24
+No.offunds 232891724022,014
+Notes:
+Thistableshowsthepooledr eg r essionr esults forther elationshipbetweenfundper for mance(measuredasthePMEagainst
+theS&P500)andfundsize,fundr ealizationr ate,andfundsequencenumber .Thesampleincludesfundvintages 1980to2018.The
+modelincludesvintag eyear ,investment styleand
+
+rmdummies,androbust standarderrors.Thedataareas ofJuly 2023.Thede
+
+ni-
+tionsofallter ms andvar iables ar epr ovidedin
+Table1
+.
+
+and
+
+denotesigni
+
+cancelevels of5%and1%,respectively.
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+117
+
+datasources)will always include worse-performing
+funds.
+Theseresultssuggestthatthedatadonotsuffer
+quality issues.Thus,itisunlikelythatthepatterns
+
+we observeonfundperformanceininternational
+markets areduetoselectivereporting.
+Conclusion
+Theprivateequityindustryhasbecomemoreglobal
+overtheyears,butfundcharacteristicsandreturns
+inotherworldlocationshavelongbeenhinderedby
+datacoverageoravailability.Weexploitnewlyavail-
+
+abledatatodescribethegeographyofprivateequity
+returnsaroundtheworld.Wederivethreeimportant
+stylizedfacts.
+First
+, fundperformanceischaracterized
+byboth investmentgeographyandinvestmentstyle.
+Theperformanceofbuyoutfundshasbeenbestin
+Europe andforasampleofUS-sponsoredglobal
+
+funds.Wealso
+
+ndthatglobalfundshaveoverall
+outperformedNorth Americanfunds.InAsia-Paci
+
+c
+andotherworldlocations,buyoutfundperformances
+
+havebeenlower,bothcomparedtootherregions
+andwhen benchmarkedagainstregionalstockmarket
+indices.Growthfundsperformbest inAsia-Paci
+
+c,
+whileventurecapitalreturnshavebeenlowacross
+allinternationalinvestmentgeographiesoverall.
+Second
+, theonly evidenceofperformancepersistence
+showsinbuyoutfundswithaEuropeanorglobal
+focus.Wealso
+
+ndevidenceofstrongmarketseg-
+mentationatthetopofthereturndistribution,where
+
+fundmanagershavelowprobabilitiesofmovingto
+topquartiles.Thispotentiallyhighlightstheimpor-
+tance ofGPaccessinEuropeanandglobalfunds.
+
+Performancepersistenceisalsohigherthanfound
+forNorth Americanbuyoutfunds.Exceptforgrowth
+fundsinEurope,we donot
+
+ndevidenceofperfor-
+mancepersistenceinotherinvestmentdestinations.
+Finally
+, theseresultsdonotseemtobedrivenby
+largecapitalin
+
+owsintotheindustry,exceptforthe
+Europeanprivateequitymarket,whichseemsto
+matureandfollowsimilardynamicstothatdocu-
+mentedforNorth America.Globalfundsseemtomit-
+
+igatealloftheseeffectsduetotheir high
+geographicaldiversi
+
+cation.
+Our
+
+ndingso fferaun ique
+
+rstlookintoprivate
+equityfundperformanceinternationallyandanearly
+glimpseofhowt heglobalizat ionoftheindustr yhas
+servedinvestorsacrossregionsandovertime.
+Theseresultsholdim portantim plicationsforfund
+invest or sinint er nat ionalgeog r aphiesandpr ovidea
+basisforarichagend ao ffutureresearch. Inlighto f
+whathas beenshownforNorthAmerica,theglobal-
+izat ionofpr ivat eequit yislikelytoinducet hecr ea-
+tionanddevelopmentofentr epreneur ialpublic
+mar kets(Ber nst ein,Dev,etal.
+2020
+),affectthe
+attractivenessof IPO
+
+nancing(EwensandFarre-
+Mensa
+2020
+),or impactlocalindustr yst r uctur e
+(Ber nst einetal.
+2018
+).Theseimpor tantt opicsand
+other s,par t icularlyt heobser veddiff erencesinper -
+fo rmancedriversacro ssgeo grap hies, will materialize
+asdatagrowinthefuturewithmorefundforma-
+tionsinthesegeographiesan dfollow-onfu ndinfor-
+mat ion isupdatedasfundsmatur eandholdingsar e
+divested .
+Acknowledgments
+Thisversion updatesandgreatlyextendsapreviousworking
+paperwrittenin2018.Wethank theEditorialTeamandtwo
+anonymousReviewersfortheirvaluablecomments.Weextend
+
+ourthankstoThomasChemmanu(discussant),CyrilDemaria,
+
+TobiasDieler (discussant), Jos
+
+e-MiguelGaspar,William
+Megginson, TamaraNefedova,GiangNguyen(discussant),
+LudovicPhalippou,VesaPursiainen(discussant),PerStr
+€
+omberg,
+aswellasmanyparticipants atthe2018EuropeanFMA
+
+DoctoralStudentConsortium,Kristiansand,Norway;the11th
+
+HedgeFundand PrivateEquityconference,Paris,France;the
+
+2nd PrivateMarketsResearchConference, Lausanne,
+Switzerland;the2023LaplandInvestmentFundSummit,Levi,
+Finland;theFrenchInter-BusinessSchoolFinanceWorkshop,
+
+Toulouse,France;the39thSpringFrenchFinanceAssociation
+
+Conference,Bordeaux,France;andthe4thInternational
+ConferenceonDigital,Innovation, Financing and
+Entrepreneurship, Montr
+
+eal,Canada,forall theirvaluablecom-
+mentsandsuggestions. SaraAinTommaracknowledgesthe
+
+supportof theVentureCapitaland PrivateEquityResearch
+
+Initiative, under theaegisoftheEuroplaceInstituteofFinance
+andtheLouisBachelierFoundation,France,andNEOMA
+™
+sSeed
+MoneyResearch Grant.SergeDarollesacknowledgesthesup-
+
+portoftheQuantitative ManagementInitiative, undertheaegis
+
+oftheEuroplaceInstituteofFinanceandtheLouisBachelier
+
+Foundation,France.
+Editor'sNote
+Submitted15 April2023
+Accepted5December2023 by William N. Goetzmann
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+118
+
+Notes
+1.Forclarity,wedefineprivateequitythroughoutthepaper
+asthegroupofinvestmentstrategiesincludingbuyouts,
+
+growthequity,andventurecapital.Theterm
+private
+equity
+isusedinpreviousliteratureandbyindustry
+professionalstosometimes describebuyoutsonlyand
+
+othertimesasthegroupofall threeinvestment
+
+strategies.Thisvariationinconventionsstemshistorically
+
+fromthefactthat
+privateequity
+and
+buyouts
+were used
+interchangeablytodescribethebuyoutinvestmentmodel
+
+followingtheinstitutionalizationoftheindustryinthelate
+
+1980s.Asinvestmentmodelsexpandedtoinclude
+
+minoritystakesinhigh-riskventuresinthe1980s,
+
+venturecapitalemergedasaseparateinvestment style
+
+frombuyouts,andthesame canbesaidtodayabout
+
+otherstrategiessuchasturnaroundsorgrowthequity,as
+
+describedinLattanzioetal. (
+2023
+)andMacArthuretal.
+(
+2022
+).Bothconventionsremaintoday,withprivate
+equitysometimes referringtobuyouts(Quinioand
+Wigglesworth
+2022
+;PitchBook
+2020
+,
+2023
+;Garland
+2013
+)andsometimes toallinvestmentstrategies
+(McKinsey
+™
+sandCompany,
+2022,2023
+).
+2.FRED
+Œ
+EconomicResearch:
+https://fred.stlouisfed.org/
+3.USBureauofLaborStatistics:
+https://www.bls.gov/cpi/
+4.Privateequityfundsusuallyholdinvestmentsfor5years
+onaverage,whichisalsotheaverageholdingperiodwe
+
+observeinthedata.Hence,fundsraisedin2018would
+
+havestarted toexitinvestmentsanddistributecashto
+
+investors asof2023.
+5.Thealgorithmcomparesthechainsofcharactersinfund
+namesfrombothdatasetsandreturnsalistofmatches
+
+withascore fortextcorrespondence.Werequirethat
+
+fundnamesbe98%similarinspellingandword order.
+6.
+https://www.msci.com/our-solutions/indexes/market-
+classification
+7.Inaddition,weshowin
+TableS1
+fromtheOnline
+Appendix, thesamplesizesoftheearliest studieson
+
+North Americanfunds,atatimewhenthefirstdataon
+
+privateequitystarted tobecomeavailableandstudiesof
+
+fundperformanceemerged.Consideringthatourstudyis
+
+withinasimilarcontext(with dataoninternationalprivate
+
+equityfundsnowemerging), oursampleofinternational
+
+fundsissizablecomparedtotheseearlystudies.To
+
+illustrate,theseminalpaperofKaplanandSchoar(
+2005
+)
+usesasampleof626North American
+Œ
+focusedfunds
+(160buyoutfundsand466venturecapitalfunds).In
+comparison,wecount826fundsinourinternational
+sample(500buyoutfundsand160venturecapitalfunds).
+8.Wealsofindinuntabulatedresultsthatfundfeesdonot
+varysignificantly acrossregionsbyfundsize,although
+
+somefundsmayslightly deviatefromthetypical2/20fee
+structure.
+9.SeetheFinancialAccountingStandardsBoard(FASB):
+https://www.fasb.org/document/blob?fileName=ASU%
+202022-03.pdf
+10.Ontopofthedebated residualvalues,IRRsare
+particularlycritiquedasameasureforfundperformance,
+especiallywithintheinternationalscope(Cummingand
+Walz
+2010
+).Thisstemsfromtheverycalculation
+methodologythathasan embeddedreinvestment
+
+assumptionwhichishardlyverifiedinpractice(Phalippou
+2008
+).Fromapuremethodologicalstandpoint,
+investmentmultiplesareshowntobetterreflectfund
+performance(Larocque,Shive,andStevens
+2022
+).
+11.Althoughthesamplesizecallsfortheuseofterciles,we
+sortfundsintoperformancequartilestoallowfor
+comparisonwiththecurrentpracticeintheliterature.
+EarlystudiesonNorth Americanfundsuseterciles(e.g.,
+KaplanandSchoar
+2005
+),andourresultsremain
+qualitativelyunchanged withthismethodology.
+12.Theresultsremainqualitativelyunchangedusingother
+performancemeasures (IRRorinvestment multiple)and
+
+otherbenchmarks forthePMEcalculations.
+13.Thisissomethingourdatasharewithall providersinthe
+marketasprivateequityfundstaketimetorealize.We
+haveattemptedtocovermore fundsinthegeographies
+withasmallnumberoffundsbycrossing thesamplewith
+
+more data,butPitchBookhasagreatoverlapoffunds
+withPreqin,whichdoesnothelpmakethesamplelarger.
+Burgisshasanonymizeddata,whichpreventsmerging
+withanyotherdataprovider.
+14.Inuntabulatedresults,wereachqualitativelysimilar
+conclusionsusingfundPMEsagainstregional benchmarks
+andusingtheinvestment multipleortheIRRas
+alternativeperformancemeasures.
+15.Therearecases wheresomeperformancemeasuresare
+reported inonedatabasebutmissingfromtheotheror
+wherethetimeseries offundcashflowsisshorteror
+longerineitherdatabasecomparedtotheother.
+References
+Bae,K. H.,H.Tan, andM.Welker.
+2008
+.
+ﬁ
+International
+GAAPDifferences:TheImpactonForeign Analysts.
+ﬂ
+The
+AccountingReview
+83(3):593
+Œ
+628.doi:
+10.2308/accr.2008.
+83.3.593
+.
+Bengtsson,O.,andS.A.Ravid.
+2009
+.
+ﬁ
+TheImportanceof
+GeographicalLocationandDistanceonVentureCapital
+Contracts.
+ﬂ
+WorkingPaper.doi:
+10.2139/ssrn.1331574
+Bernstein,S.,A.Dev,andJ.Lerner.
+2020
+.
+ﬁ
+TheCreationand
+EvolutionofEntrepreneurialPublicMarkets.
+ﬂ
+Journalof
+FinancialEconomics
+136(2):307
+Œ
+329.doi:
+10.1016/j.j
+
+neco.
+2019.10.002
+.
+Bernstein,S.,J.Lerner,M.Sorensen,andP.Str
+€
+omberg.
+2018
+.
+ﬁ
+Private EquityandIndustryPerformance.
+ﬂ
+ManagementScience
+63(4):1198
+Œ
+1213.doi:
+10.1287/mnsc.2015.2404
+.
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+119
+
+Bernstein,S.,J.Lerner,andF.Mezzanotti.
+2020
+.
+ﬁ
+Private
+EquityandPortfolioCompanies:LessonsfromtheGlobal
+
+FinancialCrisis.
+ﬂ
+JournalofAppliedCorporateFinance
+32(3):
+21
+Œ
+42.doi:
+10.1111/jacf.12416
+.
+Brav,A., L.Guy,andY.Yafeh.
+2023
+.
+ﬁ
+PrivateEquityand
+VentureCapitalFundPerformance:EvidencefromaLarge
+
+SampleofIsraeliLimited Partners.
+ﬂ
+EuropeanCorporate
+GovernanceInstitute
+Œ
+Finance WorkingPaperNo.930/2023.
+Brown,G.,B.Harris,T.Jenkinson,S.Kaplan,andD.Robinson.
+2020
+.
+ﬁ
+PrivateEquity:AccomplishmentsandChallenges.
+ﬂ
+JournalofAppliedCorporateFinance
+32(3):8
+Œ
+20.doi:
+10.1111/
+jacf.12415
+.
+Brown,G. W.,O.R.Gredil,andS.N.Kaplan.
+2019
+.
+ﬁ
+DoPrivate
+EquityFundsManipulateReportedReturns?
+ﬂ
+Journalof
+Financial Economics
+132(2):267
+Œ
+297.doi:
+10.1016/j.j
+
+neco.
+2018.10.011
+.
+Brown,G. W.,andS.N.Kaplan.
+2019
+.
+ﬁ
+HavePrivateEquity
+Returns ReallyDeclined?
+ﬂ
+TheJournalofPrivateEquity
+22(4):
+11
+Œ
+88.doi:
+10.3905/jpe.2019.1.087
+.
+Chen,H.,P.A.Gompers,A.Kovner, andJ.Lerner.
+2010
+.
+ﬁ
+Buy
+Local?TheGeographyofSuccessfulVentureCapital
+Expansion.
+ﬂ
+JournalofUrbanEconomics
+67(1):90
+Œ
+102.doi:
+10.
+1016/j.jue.2009.09.013
+.
+Coval,J.D., andT.J.Moskowitz.
+2001
+.
+ﬁ
+TheGeographyof
+Investment:InformedTradingandAssetPrices.
+ﬂ
+Journalof
+PoliticalEconomy
+109(4):811
+Œ
+841.doi:
+10.1086/322088
+.
+Cumming,D.J.,andS.A.Johan.
+2013
+.
+Venture Capitaland
+PrivateEquityContracting:AnInternationalPerspective
+.Elsevier
+ScienceAcademicPress.
+Cumming,D.,andU. Walz.
+2010
+.
+ﬁ
+PrivateEquityReturns and
+DisclosurearoundtheWorld.
+ﬂ
+JournalofInternational Business
+Studies
+41(4):727
+Œ
+754.doi:
+10.1057/jibs.2009.62
+.
+Ewens,M.,andJ.Farre-Mensa.
+2020
+.
+ﬁ
+TheDeregulation ofthe
+PrivateEquityMarketsandtheDeclineinIPOs.
+ﬂ
+TheReviewof
+Financial Studies
+33(12):5463
+Œ
+5509.doi:
+10.1093/rfs/hhaa053
+.
+Fang, D.
+2019
+.
+ﬁ
+DryPowderandShortFuses: PrivateEquity
+FundsinEmergingMarkets.
+ﬂ
+JournalofCorporateFinance
+59:
+48
+Œ
+71.doi:
+10.1016/j.jcorp
+
+n.2016.12.013
+.
+Garland, R.
+2013
+,August7.
+ﬁ
+WithGrowthEquity
+OutperformingVentureCapital,CambridgeAssociates Anoints
+Itan AssetClass.
+ﬂ
+WallStreetJournal
+.
+Gompers,P.,andJ. Lerner.
+2000
+.
+ﬁ
+Money ChasingDeals?The
+ImpactofFundIn
+
+owsonPrivateEquityValuations.
+ﬂ
+Journal
+ofFinancialEconomics
+55(2):281
+Œ
+325.doi:
+10.1016/S0304-
+405X(99)00052-5
+.
+Hanby,M.,S.Kanuri,A.Fulmore,andR.Mcleod.
+2022
+.
+ﬁ
+PrivateEquity(PE)PerformancearoundtheWorld.
+ﬂ
+The
+JournalofAppliedBusinessandEconomics
+24(3):159
+Œ
+168.
+Harris,R.,T.Jenkinson,andS.N.Kaplan.
+2014
+.
+ﬁ
+PrivateEquity
+Performance:What DoWeKnow?
+ﬂ
+TheJournalofFinance
+69
+(5):1851
+Œ
+1882.doi:
+10.1111/jo
+
+.12154
+.
+Harris,R.,T.Jenkinson,andS.N.Kaplan.
+2016
+.
+ﬁ
+HowDo
+PrivateEquityInvestmentsPerformComparedtoPublic
+Equity?
+ﬂ
+JournalofInvestmentManagement
+14:1
+Œ
+24.
+Harris,R.,T.Jenkinson,S.N.Kaplan,andR.Stucke.
+2023
+.
+ﬁ
+Has
+PersistencePersistedinPrivateEquity? EvidencefromBuyout
+andVentureCapitalFunds.
+ﬂ
+JournalofCorporateFinance
+81:
+102361.doi:
+10.1016/j.jcorp
+
+n.2023.102361
+.
+Jenkinson,T.,S.Morkoetter,T.Schori,andT.Wetzer.
+2022
+.
+ﬁ
+BuyLow,Sell High? DoPrivateEquityFundManagers Have
+Market TimingAbilities?
+ﬂ
+JournalofBanking& Finance
+138:
+106424.doi:
+10.1016/j.jbank
+
+n.2022.106424
+.
+Johan,S.,andM.Zhang.
+2016
+.
+ﬁ
+PrivateEquityExitsin
+EmergingMarkets.
+ﬂ
+EmergingMarkets Review
+29:133
+Œ
+153.doi:
+10.1016/j.ememar.2016.08.016
+.
+Kaplan,S.,andA.Schoar.
+2005
+.
+ﬁ
+PrivateEquityReturns:
+PersistenceandCapitalFlows.
+ﬂ
+TheJournalofFinance
+60(4):
+1791
+Œ
+1823.doi:
+10.1111/j.1540-6261.2005.00780.x
+.
+Korteweg,A., andS.Nagel.
+2016
+.
+ﬁ
+Risk-AdjustingtheReturns
+toVentureCapital.
+ﬂ
+TheJournalofFinance
+71(3):1437
+Œ
+1470.
+doi:
+10.1111/jo
+
+.12390
+.
+Larocque,S.,S.Shive,and J.S.Stevens.
+2022
+.
+ﬁ
+PrivateEquity
+PerformanceandtheEffectsofCash-FlowTiming.
+ﬂ
+TheJourna lof
+PortfolioManagement
+48(9):86
+Œ
+102. doi:
+10.3905/jpm.2022.1.39 5
+.
+Lattanzio,G.,L.Litov,W.Megginson,andA.Munteanu.
+2023
+.
+ﬁ
+CapitalizingEntrepreneurship:TheRiseofGrowthEquity.
+ﬂ
+JournalofAppliedCorporateFinance
+35(2):75
+Œ
+89.doi:
+10.
+1111/jacf.12561
+.
+Leeds,R.S.,andN.Satyamurthy.
+2015
+.
+PrivateEquityInvesting
+inEmergingMarkets:OpportunitiesforValueCreation
+.Palgrave
+Macmillan.
+https://doi.org/10.1057/9781137435354
+Lerner,J.,andM.Baker.
+2017
+.
+ﬁ
+AnEmpiricalAnalysis of
+InvestmentReturnDispersioninEmergingMarket Private
+
+Equity.
+ﬂ
+TheJournalofPrivateEquity
+20(4):15
+Œ
+24.doi:
+10.
+3905/jpe.2017.20.4.015
+.
+MacArthur,H.,R.Burack,C.deVusser,andK.Yang.
+2022
+,
+March7.
+ﬁ
+ThePrivateEquityMarket in2021:TheAllureof
+Growth."GlobalPrivateEquityReport2022.Bain&Company.
+Malloy,C.J.
+2005
+.
+ﬁ
+TheGeographyofEquityAnalysis.
+ﬂ
+The
+JournalofFinance
+60(2):719
+Œ
+755.doi:
+10.1111/j.1540-6261.
+2005.00744.x
+.
+McKinseyandCompany.
+2022
+.GlobalPrivateMarketsReview.
+https://www.mckinsey.com/industries/private-equity-and-prin-
+cipal-investors/our-insights/mckinseys-private-markets-annual-
+
+review-archive
+Mc KinseyandComp any.
+202 3
+.GlobalPrivateMarketsReview.
+https://www.mckinsey.com/industries/priv ate-equity-and-principal-
+investors/our-insights/mckinseys-private-markets-annual-review
+Mingo,S.,F. Morales,and L. A. Dau.
+2 018
+.
+ﬁ
+TheInterplayof
+NationalDistances andReg ionalN etworks:Priv ateEquity
+
+Investmentsin EmergingMarkets.
+ﬂ
+Jou rnalofInternationalBu siness
+Studies
+49(3):371
+Œ
+386 .doi:
+10.1057/s41 267 -017 -0141 -5
+.
+Phalippou,L.
+2008
+.
+ﬁ
+TheHazardsofUsingIRRtoMeasure
+Performance:TheCaseofPrivateEquity.
+ﬂ
+WorkingPaper.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1111796
+PitchBook.
+2020
+,June26.GrowthEquityOverview.
+PitchBook.
+2023
+,February23.GlobalPrivateMarket
+FundraisingReport2022Annual.
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+120
+
+Quinio,A., andR.Wigglesworth.
+2022
+,January5.
+ﬁ
+Growth
+EquityBoomsasInvestorsEmbracePrivateMarkets.
+ﬂ
+Financial
+Times
+.
+Robinson,D., andB.Sensoy.
+2011
+.
+ﬁ
+PrivateEquityinthe21st
+Century:Liquidity,CashFlows,andPerformancefrom1984
+Œ
+2010.
+ﬂ
+Workingpaper.
+https://www.sciencedirect.com/science/
+article/abs/pii/S0304405X16301593?via%3Dihub
+Robinson,D., andB.Sensoy.
+2013
+.
+ﬁ
+DoPrivateEquityFund
+Managers EarnTheir Fees?Compensation,Ownership,and
+CashFlowPerformance.
+ﬂ
+ReviewofFinancial Studies
+26(11):
+2760
+Œ
+2797.doi:
+10.1093/rfs/hht055
+.
+Robinson,D., andB.Sensoy.
+2016
+.
+ﬁ
+Cyclicality,Performance
+Measurement,andCashFlowLiquidityinPrivateEquity.
+ﬂ
+JournalofFinancialEconomics
+122(3):521
+Œ
+543.doi:
+10.1016/j.
+j
+
+neco.2016.09.008
+.
+Rubinstein,M.
+1976
+.
+ﬁ
+TheValuationofUncertainIncome
+StreamsandthePricingofOptions.
+ﬂ
+TheBellJournalof
+Economics
+7(2):407
+Œ
+425.doi:
+10.2307/3003264
+.
+Sannajust,A., andA.Groh.
+2020
+.
+ﬁ
+There
+™
+sNoNeedtoBea
+PioneerinEmergingPrivate EquityMarkets.
+ﬂ
+Journalof
+CorporateFinance
+65:101781.doi:
+10.1016/j.jcorp
+
+n.2020.
+101781
+.
+Sensoy,B.,Y.Wang,andM.Weisbach.
+2014
+.
+ﬁ
+Limited Partner
+PerformanceandtheMaturingofthePrivateEquityMarket.
+ﬂ
+JournalofFinancial Economics
+112(3):320
+Œ
+343.doi:
+10.1016/j.
+j
+
+neco.2014.02.006
+.
+Sorensen,M.,andR.Jagannathan.
+2015
+.
+ﬁ
+ThePublicMarket
+EquivalentandPrivateEquityPerformance.
+ﬂ
+Financial Analysts
+Journal
+71(4):43
+Œ
+50.doi:
+10.2469/faj.v71.n4.4
+.
+Str
+€
+omberg,P.
+2008
+.
+ﬁ
+TheNewDemographyofPrivateEquity.
+ﬂ
+TheGlobal ImpactofPrivateEquityReport
+1:3
+Œ
+26.
+Teo,M.
+2009
+.
+ﬁ
+TheGeographyofHedgeFunds.
+ﬂ
+Reviewof
+FinancialStudies
+22(9):3531
+Œ
+3561.doi:
+10.1093/rfs/hhp007
+.
+Teo,M.
+2012
+.
+ﬁ
+TheGeographyofPrivate Equity.
+ﬂ
+AsiaPrivate
+EquityInstitute(APEI),PrivateEquityInsightsQ3.
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+121
+

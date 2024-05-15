@@ -1,0 +1,2339 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PrivateEquity
+Performancearoundthe
+
+World
+SaraAinTommar
+, SergeDarolles
+, andEmmanuelJurczenko
+SaraAinTommar isanassistant professor of
+
+nance,NEOMA BusinessSchool
+Œ
+Reims,Rouen,Paris,France.SergeDarollesisaprofessorof
+
+nance,Universit
+
+eParis-Dauphine,Universit
+
+ePSL,CNRS, DRM,75016 Paris,France.EmmanuelJurczenkoisaprofessorof
+
+nance,
+EDHECBusinessSchool,Nice,France.SendcorrespondencetoSaraAinTommar at
+sara.ain-tommar@neoma-bs.fr.
+Weconstructanoveldatasettoexplore
+thereturnsofprivateequityininterna-
+
+tionalmarkets (i.e., otherthanNorth
+
+America).Weinvestigatefundperfor-
+
+mance andpersistenceandcomparethe
+
+ndingstotheextensiveevidenceon
+NorthAmericanfunds.We
+
+ndthat
+bothinvestmentstrategyandinvestment
+
+geographycharacterizetheperformance
+
+andreturnpersistence ofprivateequity.
+
+Buyoutfundshavethehighestreturnsin
+
+Europe,whilegrowthequityfundsper-
+formbetterinAsia-Paci
+
+c.Venturecapi-
+talreturnsaremodestacross all
+
+internationalgeographies.Asdocu-
+
+mentedintheliteratureforNorth
+
+America,largecapitalin
+
+ows resultin
+lowerreturns inEurope,whilethisdoes
+
+notaffectotherinvestmentgeographies.
+Wealso
+
+ndevidenceofimportantmar-
+ketsegmentation andstrongreturnper-
+
+sistence forbuyoutandgrowthfundsin
+
+Europe,aswellasforasampleofglob-
+
+allydiversi
+
+ed,US-sponsoredbuyout
+funds.Wedo not
+
+ndevidence ofper-
+sistence inAsia-Paci
+
+c orotherworld
+locations.Ourresults arerobusttodif-
+ferentperformancemeasuresandvari-
+
+oustestsforselectioneffects.Theyalso
+
+holdimportantimplications forboth
+
+fundmanagersandinvestors targeting
+
+internationalmarkets.
+Keywords:
+fund performance;international
+markets;privateequityfunds;return
+persistence
+Disclosure:
+Nopotentialcon
+
+ictofinterest
+wasreportedbytheauthor(s).
+PLCredits:
+2.0
+Introduction
+O
+verthelastdecade,privateequityhasgrowntobecomethe
+largestsegmentinprivatemarkets.TheindustryrosetoUSD
+
+7.6trillioninassetsundermanagementworldwide,asofthe
+
+rsthalfof2022.Thisisanannualincreaseof21%fromthe
+
+rsthalf
+of2021andanannualgrowth rateof14%onaveragesince 2012
+
+(McKinsey andCompany
+2022
+,
+2023
+).Inaddition,privateequityhas
+expandedglobally,withhalftheinvestmentsininternationalmarkets
+(i.e.,investmentgeographiesotherthanNorthAmerica).Despitethis
+growth,littleisknown aboutthecharacteristicsoffundreturnsinter-
+
+nationally.Privateequityfunds
+
+rstdevelopedinNorth Americaand,
+asaresult,theliteraturehashistoricallyfocusedonstudyingNorth
+
+Americanfunds.Analysesofinternationalmarkets havelongbeenhin-
+
+deredbydataavailabilityorlimitations(GompersandLerner
+2000
+;
+Str
+€
+omberg
+2008
+;LeedsandSatyamurthy
+2015
+;Brownetal.
+2020
+).In
+thispaper,we exploitandcombinenewlyavailabledatatoexpand
+
+ourknowledge ofprivateequityfundstoothermarkets andpresent
+
+resultsaboutfundperformanceandpersistenceinnew investment
+
+geographies.Wealsocompareour
+
+ndingswiththeextantliterature
+onNorthAmericanfundsanddevelopimportantimplicationsforfund
+investorstargetingthesemarkets.
+Ourresearchcontributestothegeneralliteratureonthegeographyof
+assetreturns.Earlierstudieshavedocumentedtherelationship
+
+betweeninvestmentgeographyandinvestmentoutcomesforawide
+
+rangeofassetclasses,includinghedgefunds(Teo
+2009
+),mutualfunds
+(CovalandMoskowitz
+2001
+),andequityresearch(Malloy
+2005
+;Bae,
+Tan, andWelker
+2008
+).For privateequity,previousstudiesshowthat
+investmentgeographyaffectsUSventurecapitalcontracting
+
+(BengtssonandRavid
+2009
+),exitstrategies(Chenetal.
+2010
+),and
+exitsuccess (JohanandZhang
+2016
+).Other studiesdescribedeal
+investmentmultiplesandreportedfundinternal ratesofreturn(IRRs)
+inAsia(Teo
+2012
+)andinemergingmarkets (LernerandBaker
+2017
+;
+Research
+Volume80,Number2©2024 CFAInstitute.Allrightsreserved.
+99
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+https://doi.org/10.1080/0015198X.2023.2292545
+
+Mingo,Morales,andDau
+2018
+;SannajustandGroh
+2020
+).Privateequityreturnsarealsoshowntobe
+affectedbycountry-levelinstitutionalnorms
+(CummingandWalz
+2010
+;CummingandJohan
+2013
+).Manyoftheeffortstostudy privateequity
+performanceinternationallyhavebeenhindered by
+theavailabilityoffund-levelcash
+
+owsorlimited
+geographicalcoverage(Brav,Guy,andYafeh
+2023
+;
+Bernstein, Lerner,etal.
+2020
+;Harris,Jenkinson,and
+Kaplan
+2016
+).Thus,overallfundperformanceis
+ofteninferredfromexitoutcomesorproxiedby
+listedequivalents(Hanby etal.
+2022
+),whichdoes
+notre
+
+ectinvestorexperience.Wecircumventthese
+limitationsbycombiningdatafromPreqin,awidely
+recognized privateequitydatabase,withnewlyavail-
+
+able, investor-deriveddatafromEurekahedge.We
+particularlybene
+
+tfromthesmall overlapbetween
+thetwodatabasesandthedifferenttypesandchar-
+acteristicsofthefundstheycovertoformasuf
+
+-
+cientlyrepresentativesampleoffundsinternationally.
+Thecombineddataspan alargeset offundsacross
+geographies,totaling 3,184fundsformedbetween
+1980and2018,withmorethan$4.2trillionincapi-
+talizations.
+1
+Acombined$1.1trillionofthesecom-
+mitmentsaredirectedtowardinternationalmarkets.
+Toformmeaningfulgeographicalrepresentationsof
+funds,we groupthembygeographicalfocusinto
+regions,following MSCI
+™
+smarketclassi
+
+cation.
+Europe topstheinternationalprivateequitymarket,
+with69%oftotalcapitalcommitments,followedby
+Asia-Paci
+
+c,with27%oftotalcommitments.Other
+worldlocationsforwhichtheindividualsamplesizes
+arenotlargeenougharegroupedunder
+ﬁ
+Restofthe
+World
+ﬂ
+(ROW)andinclude fundsfocusedon Africa,
+LatinAmerica,andtheMiddleEast.Thesefunds
+haveaccumulated4%oftotalcommitmentinterests
+acrossthesampleperiod.Importantly, international
+fundsinthesamplearemanagedbylocalprivate
+equity
+
+rms(i.e.,fundsinvestinginEurope areman-
+agedbyEuropeanprivateequity
+
+rms,thoseinves-
+ting inAsiabyAsian
+
+rms,etc.).Weanalyzeglobal
+fundsthatalsoinvestinternationallybutarespon-
+soredbyNorth American
+
+rmsasaseparategeo-
+graphicalgroup.Globalfundsaccountforabouthalf
+atrillioncommitmentsthroughoutthesampleperiod.
+Wealsopresent statisticsfortheNorthAmerican
+sampleoffundsinourdatatoallowforcomparisons
+acrossgeographiesandwiththeliterature.
+We
+
+ndthatboththefundinvestmentstyleand
+investmentgeographycharacterize fundperformance
+internationally.Buyoutfundshavebestperformedin
+Europe,atsimilarlevelstowhathasbeenreportedin
+theliteratureforNorthAmericanbuyouts.Wealso
+
+ndthatglobalbuyoutfundsmostlyoutperformtheir
+North Americanfocusedpeers.Asia-Paci
+
+c
+Œ
+focused
+fundsbestperformingrowth strategies,where
+growth fundsalsobestperformed.Venturecapital
+returns havebeenbestforglobalfundsbuthave
+beenlowelsewhere,atlevelsthatarealsobelow
+
+North Americanventurecapital(VC)returnsthrough-
+outthesampleperiod.Thesepatternsholdforfund
+IRRs,investmentsmultiples,andpublicmarketequiv-
+alents (PMEs),measuredagainstboth regional and
+USpublicmarketbenchmarks.Forbuyoutfunds,we
+
+ndevidenceofperformancepersistenceforfunds
+withaEuropeanorglobalfocus.Wealso
+
+ndevi-
+denceofstrongmarketsegmentationatthetopof
+thereturndistribution,wherefundmanagershavea
+lowprobabilityofmovingtotopquartiles.This
+potentiallyhighlightstheimportanceofgeneralpart-
+ner(GP) accessinEuropeanandglobalfunds.For
+thesegeographicalgroups,performancepersistence
+isalsostronger thanwhathasbeenreportedfor
+
+North Americanbuyouts.Wedonot
+
+ndevidenceof
+performancepersistenceinAsia-Paci
+
+corROW,or
+forotherinvestmentstrategies,exceptforgrowth
+fundsinEurope.Weexaminewhethercapitalin
+
+ows
+affectsubsequentfundperformance.Thiseffectis
+known intheliteratureonNorthAmericanfundsas
+money chasingdeals
+, wherebylargecapitalinfusions
+intheindustrydrivefundinvestmentvaluationsup,
+resultinginlowersubsequentreturnswhenthemar-
+ketcorrectsforthesevaluationsatthetimeofthe
+exit.Interestingly, fundperformancedoesnotseem
+tobedrivenbytheseeffectsinAsia-Paci
+
+cand
+ROW,asislargelydocumentedinNorth America.
+However,thisistrueforEurope,whileglobalfunds
+
+seemtomitigatetheseeffectsduetotheir highgeo-
+graphicaldiversi
+
+cation.Wetest andcon
+
+rmthat
+our
+
+ndingsarenotdrivenbyselectionbiasorover-
+alldataquality andderiveimportantimplicationsfor
+fundmanagersorinvestorstargetinginternational
+markets.
+DataandMethodology
+DataDescriptionandSummaryStatistics.
+Weusefund-levelcash
+
+owdatafromEurekahedge,
+ahistoricalhedgefunddataprovider thatextended
+itscoveragetoprivateequityamong otherassetclas-
+ses.According toEurekahedge,thedataarecollected
+aspartofinvestmentservices theyprovide tofund
+investors,inadditiontoFreedomofInformation Act
+(FOIA)requestsintheUSandtheir equivalentsinter-
+
+nationally.Toformarepresentativeuniverseof
+funds,wecombinetheinformationfrom
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+100
+
+Eurekahedge withfund-leveldatafromPreqin,which
+sourcesitsdatafromlargefundinvestors,mainly
+
+usingFOIArequests.SomeofthedatainPreqinare
+
+alsoprovidedvoluntarilybyfundmanagers.
+Figure1
+shows thedatastructureandcontentandhighlights
+themergingprocedure.
+Thedatainboth sourcescomeinseparatesubsetsof
+fundandmanagerinformation, whichwe merge
+
+usinguniqueentityidenti
+
+ers toformapanel.
+Whereapplicable, weconvertallamountsexpressed
+inlocalcurrenciestoUSdollars,usinghistoricalspot
+exchangesratesfromFRED.
+2
+Wealsoadjustalldol-
+laramountsforin
+
+ation,usingdatafromtheUS
+Bureau ofLaborStatistics.
+3
+Wemergethefundcash
+
+owinformationwithmultiplepublicmarketindex
+prices sourcedfromCompustattocomputethePME
+
+performancemeasuredescribed laterinthepaper.
+
+TherawsampleinPreqincomprises4,026funds,
+
+whileEurekahedge counts2,532funds.Weusethe
+datainbothsourcesasofJuly2023andconsider
+fundsformedbetween1980and2018.Following
+
+theliterature, we cutthesampleatthe2018vin-
+
+tagestoensure thattheperformancedataaccount
+forrealizations,ratherthanentirelyonresidualfund
+values.
+4
+We
+
+lterbuyouts,growth equity,andven-
+turecapitalstrategies,therebyexcludinginfrastruc-
+
+ture,realestate,timber,secondaries,special
+situations,andcreditfunds.Wealsoexcludefunds
+thatarelistedinthedatabasesbutaremissingcash
+
+
+owsorperformancemeasures.Thisleaves2,510
+fundsfromPreqinand1,705fundsfrom
+Eurekahedge.WeverifywhetherPreqinand
+Eurekahedge havefundsincommonbymatchingthe
+
+fundsfromeachdatasetusingJaccardsimilarity
+
+scores.
+5
+Weeliminatefalsepositives bythoroughly
+verifyingthecorrectcorrespondenceoftheoverlap-
+pingfunds.Tothisend, we manuallycheckthe
+
+funds
+™
+legalinformationandcharacteristicsineach
+datasourceandrequirethattheidenti
+
+edoverlap-
+pingfundshavethesamevintage,size,investment
+style,sequencenumber,andsponsor
+
+rminforma-
+tion.Wecarefullyunifythevariablenamesfrom
+
+bothdatasetsandprovide their de
+
+nitionsin
+Table 1
+.Thistablealsocomprisesdescriptionsof
+otherusefulterminologyusedinthepaper.
+Wekeeponeset ofcommonfundsandmakesure
+thatfundsand
+
+rmsareuniquelyidenti
+
+ed. Toform
+economically signi
+
+cantinvestmentgeographies,we
+groupthefundsbygeographicalfocusintoinvest-
+
+mentregions,following MSCI
+™
+sgeographicalclassi
+
+-
+cation.
+6
+The fund
+™
+sgeographicalinvestmentfocusis
+providedbyPreqinandEurekahedge andisde
+
+ned
+inthedataasthecountryorregionofthefund
+™
+s
+investmentallocations.Weconsiderinthesampleof
+Figure1.
+DescriptionoftheDataStructureandtheMergingProcedure
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+101
+
+Table 1.
+ListandDe
+
+nitionsofTermsandVariablesinAlphabeticalOrder
+TermsandVariablesDefinition/Description
+Asia-Paci
+
+cMarketsThegroupoffund investmentjurisdictionsincluding(followingMSCI's
+classi
+
+cation):Australia,HongKongSAR,Japan,NewZealand,
+Singapore,mainlandChina,India,Indonesia,SouthKorea,Malaysia,the
+
+Philippines,Taiwan,Thailand,andVietnam.
+Buyouts Buyoutsaremajorityequity investmentsinmaturecompanies,often
+structuredasleveragedbuyouts,withsigni
+
+cantuse ofdebtto
+structure thedeals.There are severalsub-strategiesofdifferentsizes
+
+(small,mid,large,andmegabuyouts)andtypes(take-privates,carve-
+
+outs,etc.).
+CarriedInterest,orCarryCarryorcarriedinterestisaperformance-basedfeefund managers
+receiveusuallyuponreachingthefund investors
+™
+requiredreturn.
+Contribution,orCapitalcallThefund
+™
+stotalinvestedamounts.
+Distribution orRealizationThefund
+™
+sproceedsfromsellingtheinvestments/exitingtheportfolio
+companies.
+Europe Thegroupoffund investmentregionsincluding(followingMSCI's
+classi
+
+cation):Austria,Belgium,Denmark,Finland,France,Germany,
+Ireland,Italy,Netherlands,Norway,Portugal,Poland,Spain,Sweden,
+
+Switzerland,Turkey,andtheUnitedKingdom.
+Global Theinvestmentstrategywhere afundhasaninternationalinvestment
+focus,withoutspeci
+
+cpreferenceforacountryoraregion.
+GPGeneralpartnerorfundmanageristhefund
+™
+smanagingprivate
+equity
+
+rm.
+GrowthEquityGrowthequity refers tominorityequity investments
+Š
+somewhatin
+betweenventurecapitalandbuyoutstrategies
+Š
+inpro
+
+tableandfast-
+growing companiestoexpand,consolidate,orprovideliquidityto
+currentowners.Themaintypesofgrowthequity includeproviding
+
+additional equity
+
+nancingtolate-stage,venturecapital-backedsmall
+andmedium-sizedenterprises(SMEs)orequity investmentsinspinoffs.
+HoldingPeriodThefund
+™
+sreportedholdingperiodinyears.
+InternalRateofReturn(IRR)Theinvestorsannualizedreturnbasedonfund contributions,distributions,
+andvaluationoftheremainingportfolio,netofmanagementfeesand
+
+carriedinterest.
+LPLimitedpartneristhefund
+™
+sinvestor.
+ManagementFeeAfeeexpressedasapercentageoffund size,withorwithoutreduction
+afteratimeorpercentagecapitalinvestedthreshold,paidannually
+
+tothefundmanagerstoaccountforexpensesfrommanaging
+
+thefund.
+MultipleofInvestedCapital(MOIC)Thesumofthetotaldistributionsofthefund,includingthelast valuation
+oftheremaininginvestments(i.e.,netassetvalue,divided by thesum
+
+ofall thefund
+™
+sinvestedamounts[i.e., contributions]).
+NetAssetValue(NAV) Thefund
+™
+sresidualvalue,seebelow.
+NorthAmerica Thegroupoffund investmentregionsincluding(followingMSCI's
+classi
+
+cation):CanadaandtheUS.
+PICPaid-intocommitted,orPIC,istheratiooftotalfundcontributionsasof
+July2023 measuredagainstits committedcapital.
+PublicMarketEquivalent(PME)Kaplan-SchoarPME(2005)comparesprivateequity fund investmentsto
+anequivalentlytimed investmentinapublic equity benchmark.
+Realization Rate%Thefund
+™
+stotaldistributionsdividedbythetotalvalueofthefund.The
+fund
+™
+stotalvalueisthesumofthefund
+™
+stotaldistributionsand
+its NAV.
+continued
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+102
+
+internationalfundsonly thosefundswhoseinvest-
+mentfocusisnotNorthAmericanandwhosespon-
+
+sorislocatedinthesameinvestmentgeographyas
+
+thefund
+™
+s.Hence,fundsinthegroup
+ﬁ
+Europe
+ﬂ
+are
+fundsinvestinginEuropeancountriesandmanaged
+byEuropean
+
+rms.Fundsinthe
+ﬁ
+Asia-Paci
+
+c
+ﬂ
+region
+arefundsinvestinginAsiathataresponsoredby
+
+Asian
+
+rmsorfundsinvestinginAustraliaorNew
+Zealandwhosemanaging
+
+rmsarealsolocatedin
+eitherofthesetwocountries.TheROWcategory
+comprisesfundsinvestinginotherworldlocations
+
+(namelyAfrica,theMiddleEast,orLatinAmerica).
+
+Theindividualregional samples intheROWcategory
+
+arenotsuf
+
+cientlylargetoallowforseparateanaly-
+ses.Fundswhoseinvestmentfocusisde
+
+nedas
+broadlyinternationalornotspeci
+
+ctoagivencoun-
+tryorregionaregroupedinthe
+ﬁ
+global
+ﬂ
+fundscate-
+gory.ThesefundsaregenerallybackedbyUS-based
+
+sponsorsandareanalyzedseparatelyforclarity.
+Finally,we provide statisticsonNorthAmerican
+Œ
+focusedfundsthroughoutthepapertoallowfor
+
+comparisonwiththeothergeographicalgroupsand
+
+alsowiththepreviousliterature.The
+
+nalsample
+comprises3,184uniquefundsformedbetween1980
+and2018,withapproximately$4.3trillionincapitali-
+zation,allinvestmentgeographiesandstrategies
+
+combined.Wepresent thesamplecharacteristicsin
+
+Table 2
+, byinvestmentgeography(panelA) andfur-
+therbyinvestmentstrategy(panelB).Wealsoshow
+inpanelCthesamplecharacteristicsbydatasource
+acrossinvestmentgeographies.
+Lookingatthesamplebyinvestmentgeography
+(panelA),theinternationalsamplecounts826funds,
+withmorethan$1.1trillionincommittedcapital.
+Thesefundsaremanagedby416
+
+rms.While the
+sampleofinternationalfundsmightseemsmaller
+
+thanthatofNorthAmericanfunds,theaveragefund
+sizeiseconomically similar.Internationalfundsaver-
+age$1.5billionincommitmentsthroughoutthesam-
+
+ple period,comparedto$1.2billiononaveragefor
+
+North American
+Œ
+focusedfunds.
+7
+The majorityofcommitments($783.9billion)are
+investedinEurope,followedbyAsia-Paci
+
+c($309.6
+billion)andROW($46.1billion). Mostfundcommit-
+
+mentshavebeeninvested(paid-intocommitted
+
+(PIC)
+¼
+68%) onaverageacrossthesampleperiod.
+Fund realizationratesarerelativelysimilaracross
+internationalgeographies:Fundshaveeffectively dis-
+
+tributedaboutone-thirdoftheir totalvalueonaver-
+
+ageinEurope,Asia-Paci
+
+c,andROW,comparedto
+44%inNorth America.Globalfundshavehigherreal-
+izationrates,atanaverage64%oftotalfundvalues
+indistributions.
+Table 2
+alsoshows thefund
+sequencenumberasaproxyfor
+
+rmexperiencein
+thesemarkets.Thetypicalprivateequity
+
+rminAsia-
+Paci
+
+candinotherinternationallocations(ROW)is
+atitsthirdfund,whereas aEuropean
+
+rmistypically
+atitsfourthfund,similartoglobalandNorth
+
+American
+
+rms.Thissuggestscomparable
+
+rmexpe-
+rienceacrosstheconsideredinvestmentgroups.
+
+Lookingatfundtermsbygeography,management
+feesandcarriedinterestareoverallalignedwiththe
+conventionalpracticeinNorth America:at2%on
+
+averageinmanagementfeesand20%incarried
+
+interest.
+8
+Ineach investmentgroup,we alsoestimate
+howlongfundshavebeenoperatingandreporttheir
+averageholdingperiods.Thisistogaugewhether
+
+fundsstandatsuf
+
+cientlyadvancedstagesintheir
+lifecycle acrosstheconsideredgeographicalgroups
+
+toallowforreasonablecomparison.Weapproximate
+funddurationsbytakingthedifferenceinyears
+betweenthefund
+™
+slastvaluationordistributiondate
+andits
+
+rstinvestmentdate.Weusethisapproxima-
+tionbecauseprivateequitydatabasesprovide fund
+Table1.ListandDe
+
+nitionsofTermsandVariablesinAlphabeticalOrder(continued)
+TermsandVariablesDefinition/Description
+ResidualValue Residualvalue,orfundNAV,isthevaluationofthefund
+™
+sremaining
+portfolio holdings.
+ROW"Rest oftheWorld."Wegroup under thiscategorytheregionsinour
+sample,forwhichthenumber offundsisnotsuf
+
+cienttobeseparately
+analyzed.TheseincludeAfrica,LatinAmerica,andtheMiddleEast.
+SequenceThefund
+™
+ssequencenumber.
+SizeThefund
+™
+stotalcommitted capital,inUSDmillion.
+VentureCapitalVenturecapitalreferstominorityequity investmentsinyoungprivate
+companieswithnegative cash
+
+owsorpro
+
+ts,butwithhighgrowth
+potential.Investmentstagesrangefromseed, startup,andearly-stage
+
+toexpansionandlater-stageventures.
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+103
+
+Table 2.
+DescriptiveStatistics
+Number
+offirms
+
+Number
+offunds
+Committed
+capital
+(USDm)
+Average
+fundsize
+(USDm)
+Average
+PIC(%)
+Average
+realization
+rate(%)
+Average
+fundsequence
+number
+Average
+management
+fee(%)
+Average
+carried
+interest(%)
+Averagefund
+duration
+(years)
+Average
+holding
+period(years)
+PanelA
+International4168261,139,5601,50568% 33%32.0 20.07.65.9
+
+Asia-Paci
+
+c138256309,5671,27471% 31%32.0 19.87.06.0
+Europe237476783,8581,84466% 34%41.9 20.07.85.7
+
+ROW529446,13551874% 35%32.0 20.28.16.3
+
+NorthAmerica8792,1672,564,6561,22775% 44%41.9 20.29.65.5
+
+Global86191560,7953,11684% 64%41.9 20.18.55.5
+
+Allmarkets1,3053,1844,265,0111,40974% 42%41.9 20.19.05.6
+PanelB
+Buyouts6761,6443,434,1412,20374% 47%41.9 20.19.05.6
+
+Asia-Paci
+
+c60110223,6852,15168% 37%32.0 20.07.65.8
+Europe165346750,9952,48769% 38%41.9 20.28.15.7
+
+ROW264430,10573476% 39%32.0 20.08.26.1
+
+NorthAmerica4271,0311,926,3901,91975% 48%41.9 20.19.45.5
+
+Global46113502,9664,65786% 68%41.9 20.09.75.6
+
+Growthequity261481407,361 86971% 31%32.0 20.17.45.6
+
+Asia-Paci
+
+c559165,65873075% 29%32.0 19.37.06.3
+Europe415318,48837056% 21%21.8 18.65.85.6
+
+ROW162210,27446769% 22%22.3 21.76.66.1
+
+NorthAmerica143292287,4151,00872% 34%42.0 20.28.05.4
+
+Global122325,5251,16073% 40%32.0 20.66.05.3
+
+Venturecapital 4841,059423,510 42476% 41%42.0 20.29.65.6
+
+Asia-Paci
+
+c415520,22441370% 22%32.0 20.05.86.1
+Europe537714,37519759% 22%32.1 20.07.95.3
+
+ROW13285,75622174% 40%32.0 20.09.06.5
+
+NorthAmerica375844350,851 43777% 42%42.0 20.210.25.6
+
+Global295532,30364684% 65%42.0 20.06.95.4
+
+Allmarkets1,3053,1844,265,0111,40974% 42%41.9 20.19.05.6
+continued
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+104
+
+Table2.DescriptiveStatistics(continued)
+Number
+offirms
+
+Number
+offunds
+Committed
+capital
+(USDm)
+Average
+fundsize
+(USDm)
+Average
+PIC(%)
+Average
+realization
+rate(%)
+Average
+fundsequence
+number
+Average
+management
+fee(%)
+Average
+carried
+interest(%)
+Averagefund
+duration
+(years)
+Average
+holding
+period(years)
+PanelC
+Eurekahedge
+
+Asia-Paci
+
+c375861,5281,25681% 48%22.0 20.06.15.9
+Europe387576,4902,73274% 67%32.0 20.27.76.0
+
+ROW12206,65939293% 73%32.0 20.08.86.6
+
+NorthAmerica 281527605,3061,19986% 65%42.0 20.18.45.5
+
+Global81183551,9813,19185% 65%41.9 20.18.65.5
+
+Eurekahedge,all 4288631,301,9661,68684% 64%42.0 20.18.25.6
+
+Preqin
+
+Asia-Paci
+
+c108198248,0381,27968% 26%31.9 19.27.36.0
+Europe208401707,3681,78265% 28%41.9 19.97.85.5
+
+ROW447439,47654869% 25%32.1 20.67.95.8
+
+NorthAmerica 7101,6401,959,3501,23572% 37%41.9 20.29.95.5
+
+Global688,8131,25957% 25%21.8
+Œ
+5.26.5
+Preqin, all1,0362,3212,963,0451,31370% 34%41.9 20.29.35.6
+
+Combined sample1,3053,1844,265,0111,40974% 42%41.9 20.19.05.6
+Notes:
+
+Thetotalnumberof
+
+rmsmightdifferfromthesumaswereportthenumberofunique
+
+rms,andonefundcanbesponsored bymore thanone
+
+rm.
+Thistabledescribesthesamplecharacteristicsbyinvestment geography,investment strategy,anddataproviderforfundsformedbetween1980and2
+018.ThedataareasofJuly
+2023.Summarystatistics areprovidedbyinvestmentgeographyinpanelA,byinvestment strategyinpanelB,andbydataproviderinpanelC.Thede
+
+nitionsofalltermsandvari-
+ablesareprovidedin
+Table1
+.
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+105
+
+status(e.g.,live,liquidated)butdonotprovide fund
+terminationdates.Fund holdingperiodsarereported
+inthedatabases.Onaverage,internationalfunds
+havebeenoperatingfor7to8 years,comparedto
+
+about10yearsforNorthAmericanfundsand
+
+8.5yearsforglobalfunds.Regardingholdingperiods,
+companiesremaininthefundportfoliofor5to
+6 yearsonaverageintheinternationalsample,similar
+
+toNorthAmerica.
+Lookingatinvestmentst rat egiesbygeographicalgroup
+(panelB),buyoutsarethelargestsegmentbothin
+termsofnumberoffundsandtotalcommitments.In
+
+Asia -Paci
+
+c,Europe,andROW,buyoutf undsf ormed
+between1980and2018haveaccumulatedmorethan
+atrilliondollars inco mmitments co llectively,co mpared
+to$1 .9tri lli oninNorthAmeri caand$0 .5tri ll i onfor
+
+globalfunds.Theaveragefund sizerangesfrom$0.7
+
+billionintheROWinvestmentgroupto$2.1billion
+and$2.5billioninAsia-Paci
+
+candEu r ope, r esp ectively,
+exceedingtheave ragebuyoutfund sizeinNort h
+
+Americaat$1.9 billiononaverage.G lobalf undsare
+
+the largestinsize,at $4.6billiononaverage.Growth
+equit yand vent urecapitalaret hesecondlarge stmar-
+ketsegmen tsintermsoftotalcommitments, ataround
+
+$ 0.4trillionincapitalizatio ns each. Ho wever,venture
+
+capit alconcent rate smorecommitme nt sintheNort h
+Americanandglobalgroups,comparedtoAsia-Paci
+
+c,
+Europe,a ndROW,where growthstra tegiesa re more
+
+importantr elativetoventu r ecap ital.Theseob ser va-
+
+tio ns particularlyhighlighttheleadingro leo fUS-based
+
+rmsinfosteringinnovationandearly-stagecompanies,
+c omparedtoAsia-Pac i
+
+c,Europe,andROW,where
+investmentsseemtobed irectedtowar dlater - stage
+
+andmorematurecompanies.
+Finally,panelCcompares andcontraststheuniverse
+ofcoveredfundsacrossinvestmentgeographiesby
+
+datasource. AlthoughEurekahedge contributes
+
+fewerfundsthanPreqintothecombinedsample,it
+isinterestingtonotethatittendstocomplementthe
+typeoffundscoveredbyPreqinintermsofcharac-
+
+teristics.Thus,whileEurekahedgecontributesfunds
+
+similarinaveragesizetoPreqinintheAsia-Paci
+
+c
+group,thecontributedfundsfromEurekahedge
+re
+
+ectterms(fees,holdingperiod,sequencenum-
+bers,etc.) thatarenotsimilartothePreqinfunds.
+
+Thishastheadvantageofmaking thecombinedsam-
+ple morerepresentativeofthepopulationoffundsin
+thegeographiesofinterest.Similarly,acrossthe
+
+othergeographicalgroups,Eurekahedgeadds larger
+
+fundsintheEuropeangroupthanPreqincoversand
+smallerfundsintheROWgroup.Preqinalsohas
+fewerglobalfunds.Thefundsthatareuniqueto
+
+Eurekahedgehavehigherinvestmentandrealization
+ratesthanthefundsinPreqin,acrossallgeographical
+groups,while
+
+rmexperienceandtherest offund
+characteristicsarealignedoverallinbothsources.
+North Americanfundsarecomparableacrossboth
+sourcesoverall,bothintermsofaveragefundsize
+
+andothercharacteristics.
+PerformanceMeasures.
+Privateequityperfor-
+manceis co mmo nlymeasuredusingthefund
+™
+sIRR,or
+thef und
+™
+smultipleofinvestedcapital(MOIC ),also
+commonlyk nown as
+investmentmultiple
+.TheIRRpro-
+videsame asureoft hef undinvestors
+™
+annualized
+re t urnbase donf und cash
+
+ows.Th istakesin to
+acco untthefundco ntributions,distributions,andvalua-
+
+tionofanyremainingin vestments, netofmanagement
+feesandcar r iedinterest.TheIRRissolvedforinthe
+fund
+™
+snetpresentvalue(NPV)equat ion,givenby:
+NPVFund
+i
+ðÞ
+¼
+0
+¼
+X
+T
+t
+¼
+0
+Distributions
+it
+
+Contributions
+it
+ð
+1
+þ
+IRR
+i
+Þ
+t
+þ
+NAV
+iT
+ð
+1
+þ
+IRR
+i
+Þ
+T
+ !
+where
+i
+denotesthefund,
+t
+thetimingsofthecontri-
+butionsanddistributions,and
+T
+thetimingofthelat-
+est fundvaluation, netoffees.
+ThefundMOICiscalculatedastheratiooftotal
+funddistributionsandvaluationoftheremaining
+investments(NAV),measuredagainstthefund
+™
+stotal
+contributions,netoffees:
+MOICFund
+i
+ðÞ
+¼
+P
+T
+t
+¼
+0
+Distributions
+it
+þ
+NAV
+iT
+P
+T
+t
+¼
+0
+Contributions
+it
+InadditiontothereportedIRRandMOIC,we com-
+putefundPMEs,whichcomparethefundreturnto
+thatofpublicequity.IRRsandinvestmentmultiples
+assessthefund
+™
+sabsoluteperformance,takinginto
+accountthefund
+™
+sdataonly,whilethePMEallows
+forcomparisonbetweeninvestmentsinagivenpri-
+vateequityfundandasimilarlyheldinvestmentin
+therelevantpublicmarketbenchmark.Following
+
+KaplanandSchoar(
+2005
+),we computethePMEfor
+each fundinthesampleas:
+PMEFund
+i
+ðÞ
+¼
+P
+T
+t
+¼
+0
+Distribution
+it
+½
+1
+þ
+R
+m
+ð
+t
+Þ
+þ
+NAV
+iT
+½
+1
+þ
+R
+m
+ð
+T
+Þ
+P
+T
+t
+¼
+0
+Contribution
+it
+½
+1
+þ
+R
+m
+ð
+t
+Þ
+where,foreach fund
+i
+,
+R
+m
+(t)
+istherealizedmarket
+returnoftheS&P500indexfromthefundinception
+(
+t
+¼
+0
+)totherespectivetimingsoffunddistributions
+(
+Distribution
+it
+),fundcontributions(
+Contribution
+it
+),and
+anyremainingvalueasofthelastreporting date
+available
+T
+(
+NAV
+iT
+).TheKaplan-SchoarPMEis
+adoptedbyprivateequityresearchersand
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+106
+
+practitionerstoevaluatefundperformanceandis
+validatedfromanassetpricing perspectiveby
+
+KortewegandNagel(
+2016
+)andSorensenand
+Jagannathan(
+2015
+).Particularly,Sorensenand
+Jagannathan(
+2015
+)showthatthePMEmeasure
+allowsthelog utilityinvestortovaluerisky cash
+
+
+owsandisequivalenttoevaluatingprivateequity
+fundperformanceusingRubinstein
+™
+s(
+1976
+)dynamic
+capitalassetpricing model.Inessence,thePMEisa
+
+market-adjusted investmentmultiple,comparing (rel-
+ativetoone)thefundreturnstothoseofthepublic
+market,hadtheinvestmentsbeenintheconsidered
+
+publicmarketindexinsteadofthefund.Thecalcula-
+
+tionsimulatesinvestmentsinthepublicmarketby
+
+discountingfunddistributionsandnetassetvalueat
+
+thetotalpublicequitymarketreturn(followinga
+
+buy-and-holdstrategy), thencalculatingtheratioof
+
+thatamounttoasimilarlydiscountedvalueoffund
+
+contributionsatthetotalreturnoftheconsidered
+
+publicmarket.ThePMEisinterpretedasthesurplus
+
+(comparedtoone)investorsreceiveoverthefund
+
+duration comparedtoasimilarlyheldinvestmentin
+
+theconsideredpublicmarketindex.Toillustrate,a
+PMEof0.9indicates thatoverthefundduration,the
+fundreturned10%less(i.e.,0.9minus1)thanwhat
+
+investorswouldhavegainedfrominvestinginthe
+
+consideredpublicmarketindex.Inversely,aPMEof
+
+1.1impliesthatinvestorsgained10%(i.e.,1.1minus
+
+1)overthefundduration,comparedtowhatthey
+
+wouldhavereceivedfromholdingasimilarinvest-
+
+mentintheconsideredpublicmarketbenchmark.
+
+Weuseawiderangeofpublicmarketindicesto
+
+benchmarkfundreturns inthesample.Thehistorical
+
+stockindexprices aresourcedfromCompustat
+
+North AmericaandCompustatGlobaldatabases.We
+
+accountforthefund
+™
+sgeographicalfocusbyusing
+relevantregional publicmarketindices.Thus,we
+benchmarkEuropeanfundsagainsttheS&PEurope
+andMSCI Europe indices,theAsia-Paci
+
+cfunds
+againstS&PAsiaandMSCI Australasia,andthefunds
+
+intheROWandglobalgroupsagainsttheS&P
+
+WorldandMSCI Worldindices.Wevarytheregional
+
+indiceswithineachgeographicalgrouptotest forthe
+
+sensitivityofthePMEtoalternativebenchmarks
+
+(RobinsonandSensoy
+2016
+,
+2013
+).Wealsocalculate
+fundPMEsinallgeographicalgroupsusingthe
+
+S&P500asabenchmarkandagainstothersmall-cap
+
+USindices.Measuring PMEsagainstsmall-capindices
+
+isacommonpracticebyinvestorstoadjustfor
+
+potentialdifferencesinsizebetweenfundinvest-
+mentsandcompaniesinthelarge-capindices.Using
+USbenchmarksalsoallowsforcomparisonwith
+
+North Americanfundsandwithstylizedfactsinthe
+
+literature.
+Withbuyoutfundsconcentratingmostofinvestor
+commitmentsinternationally,we breakthemoutin
+theperformanceanalyses inthesection"Fund
+Performance"andprovide insights ongrowth and
+venturecapitalstrategies separately.Therest ofthe
+analyses asofthesection "PerformancePersistence"
+will addressallinvestmentstylescollectivelyasthey
+aremorerelatedtoaggregatemarkettrendsthanto
+style-speci
+
+cperformanceevolution.
+FundPerformance
+Buyouts.
+Weshowin
+Table 3
+buyoutfundIRRs
+andinvestmentmultiplesbyinvestmentgeography.
+For readability,we reporttheresultsineach invest-
+mentgeographybyvintageyeargroupforfunds
+formedintheperiods1980
+Œ
+1990,1991
+Œ
+2000,
+2001
+Œ
+2009,and2010
+Œ
+2018.Wereportthenumber
+of
+
+rmsandfunds,thetotalcommittedcapital,and
+theaveragefundinvestmentandrealizationrates.
+The realizationratesparticularlyhelpassessthe
+extenttowhichperformancecalculationsrelyon
+residualvalues,asopposedtoeffective exits.
+The
+
+rstbuyoutfundsdevelopedinEurope,asearly
+asinthe1980s,whileinAsia-Paci
+
+candotherparts
+oftheworld,thedevelopmentofthe
+
+rstbuyout
+fundsbeganinthe1990s.Byregion,thesampleof
+buyoutfundscomprises110Asia-Paci
+
+c
+Œ
+focused
+funds,managedby60unique
+
+rms,with$224billion
+incommitments.TheEuropeansamplecomprises
+346funds,representing165uniqueprivateequity
+
+rms,foratotalcommittedcapitalof$751billion.
+The ROWgroupcounts44fundswith$30billionin
+commitments,managedby26unique
+
+rms.For com-
+parison,we alsoshowthesamestatisticsforthe
+globalandNorth Americangroups,whichrespec-
+tivelycount113and1,031fundsandcapitalize$0.5
+trillionand$1.9trillionincommitments.Fundsacross
+allgeographicalgroupsaremostlyinvested,whereat
+least two-thirdsoffundcommitmentshavebeen
+calledonaverageevenforthemostrecentvintages.
+Thispartiallycon
+
+rmsearliertheoreticalwork in
+Fang(
+2019
+),whosemodelpredicts thatfundsin
+emergingmarkets arecharacterized by
+ﬁ
+shorter
+fuses
+ﬂ
+comparedtodevelopedmarkets (i.e.,higher
+investmentpaceandshorterlifespans).Acrossall
+geographicalgroups,fundsraisedbefore2000are
+mostlyrealized:Thepercentrealizedvalueis100%
+onaverageforfundsformedinthe1980sandabove
+80%forthoseformedinthe1990s.Thismeansthat
+atleast 80%ofthefund
+™
+stotalvaluehasbeenreal-
+izedforthesevintagesandthatthisisre
+
+ectedin
+thecorrespondingIRRandinvestmentmultiples,
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+107
+
+whosevalueswouldrelyonfundresidualvaluesfor
+only20%atmost. Thefractionofaveragefundreal-
+
+izationsagainstitstotalvaluenaturallydeclinesfor
+
+thefollowing periods,asthesevintagesmatureover
+
+timeandportfoliocompaniesaresold.Atleast half
+
+ofthefundtotalvalueshavebeenrealizedonaver-
+
+ageforthe2000svintagesinAsia-Paci
+
+c,Europe,
+andROW,whereas thisamountsto75%and59%on
+
+averageforglobalandNorth Americanfunds,respec-
+
+tively.The2010svintagesinallinvestmentgeogra-
+
+phieshavelessthan30%offundvaluesin
+
+realizationsonaverage,whichmakes theIRRsand
+
+investmentmultiplesimportantlyreliant on fund
+
+NAVs. Inthisrespect,fundvaluationshavebeen
+stronglydebatedwithregardtohowplausibleNAV
+estimatesare,comparedtoeffectivecash
+
+ows
+whenthefundisultimatelyliquidated. Thisparticularly
+
+questionsthereliabilityofperformancemeasuresthat
+
+relyonthem whilethefundisstill live.However,
+
+recentliteraturehasshownthatinterimfundvalua-
+
+tionstendtobeconservative, asfundmanagers
+
+refrainfromin
+
+atingfundNAVsgiventheensuing
+reputationcost andthepotentiallossoffollow-on
+
+investorcommitmenttosubsequentfunds(Brown,
+
+Gredil,andKaplan
+2019
+).Additionally,fairvaluation
+measurementrules(known asTopic820
+9
+)whichwere
+enactedin2008,havepushedprivateequity
+
+rmsto
+marktheir assetsatfairvalueratherthanatcost. This
+Table 3.
+BuyoutFundsAbsoluteReturns
+No.of
+firms
+
+No.of
+funds
+Committed
+capital
+(USDm)
+Average
+PIC
+Average
+realization
+rate
+Average
+IRR(%)
+Average
+MOIC
+Asia-Paci
+
+c
+1980
+Œ
+1990
+ŒŒŒŒŒŒŒ
+1991
+Œ
+2000554,979 88%81%4.471.39
+2001
+Œ
+2009263768,00583%65%6.601.57
+2010
+Œ
+20184568150,70058%18%13.051.19
+Overall60110 223,68568%37%9.541.32
+Europe
+1980
+Œ
+1990223,904100%100%12.511.55
+1991
+Œ
+2000283946,28287%86%16.631.91
+2001
+Œ
+200983119 360,06080%52%11.001.44
+2010
+Œ
+2018117186 340,74959%18%15.511.24
+Overall165346 750,99569%38%13.881.39
+ROW
+1980
+Œ
+1990
+ŒŒŒŒŒŒŒ
+1991
+Œ
+2000573,285 98%100%1.951.30
+2001
+Œ
+2009996,668 98%64%8.521.59
+2010
+Œ
+2018192820,15163%15%7.721.13
+Overall264430,10576%39%6.541.25
+Global
+1980
+Œ
+1990113,366100%100%14.902.36
+1991
+Œ
+20001832101,28095%97%18.231.99
+2001
+Œ
+20093046229,21794%75%17.881.93
+2010
+Œ
+20181934169,10368%27%9.501.08
+Overall46113 502,96686%68%15.691.70
+NorthAmerica
+1980
+Œ
+1990233637,78096%91%19.312.85
+1991
+Œ
+2000139220 284,17792%84%9.991.56
+2001
+Œ
+2009208315 700,99583%59%12.301.64
+2010
+Œ
+2018276460 903,43960%20%15.321.27
+Overall4271,0311,926,39075%48%13.051.50
+Notes:
+
+Thetotalnumberof
+
+rmsmightdifferfromthesumaswereportthenumberofunique
+
+rms,andonefundcanbespon-
+soredbymore thanone
+
+rm.
+ThistableshowstheaverageIRRandinvestment multipleofbuyoutfundsbyinvestment geographyandvintageyearperiod.The
+
+totalcommitted capitalandtheaverageinvestmentandrealizationratesarealsoreported.ThedataareasofJuly2023.Thede
+
+-
+nitionsofalltermsandvariablesareprovidedin
+Table1
+.
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+108
+
+evidencesuggeststhatNAVsarerelativelyre
+
+ective
+oftheultimatereturntheyimply.
+10
+Thefewinternationalbuyoutfundsraisedinthe
+
+1980s(oneglobalfundandtwoEuropeanfunds)
+
+haveregisteredlowerIRRson averagethanNorth
+
+Americanfunds(12.51%and14.90%inthe
+Europeanandglobalgroups,respectively,compared
+to19.31%onaverageforNorth Americanfunds),
+
+similartotheaverageinvestmentmultiples(1.55 and
+
+2.36intheEuropeanandglobalgroups,respectively,
+against2.85inNorthAmerica).Thefollowing vintage
+periodswherefundsaremostlyrealized(i.e.,more
+
+than50%inrealizationrates)highlightthehigher
+
+IRRsoftheEuropeanandglobalfundscomparedto
+
+therest ofinvestmentgeographiesandtheoverall
+lowerIRRsinAsia-Paci
+
+candROW.Investmentmul-
+tiplesdeclineovertimeacrossall geographicalgroups
+
+eventhoughtheycontinuetoreturnabovethedol-
+
+lar, consistentwiththeevidenceinNorthAmerica
+(Harrisetal.
+2023
+;BrownandKaplan
+2019
+).
+WhilefundIRRsandinvestmentmul tiplesall owto
+comparefunds,the ydo notgauget herelat iveperf or-
+manceoffu nd sagainstthep u blicmar ket.Togau ge
+
+how buyoutfund shaveperfor medagain stsimilar
+
+investmentsinpublic equities ,wecalculatefundPMEs
+andr ep or tther esu ltsb yinvestmen tr egionin
+Table4
+.
+WepresentfundPMEsbothagainstregional indices
+ofsimilargeographicalfocusandagainsttheUSindi-
+ces.Buyoutfundsthatwereformedinthe1990s
+
+andthatarefocusedonAsia-Paci
+
+chaveoutper-
+formedboth theregional index(MSCIAustralasia)
+
+andUSequitiesoverthelifetimeofthefund,by
+10%to20%onaveragecomparedwiththeRussell
+indicesand40%to43%onaveragecomparedwith
+
+theS&P500andMSCI Australasia.Comparing fund
+
+performancetothatofAsianequitieshasthebene
+
+t
+ofassessingfundreturnforinvestorswithaspeci
+
+c
+exposuretoAsia-Paci
+
+c,whereasPMEscalculated
+usingUSbenchmarksallowtheinvestorwithalterna-
+
+tiveexposuretoNorth Americanmarkets togauge
+
+therelativeperformancehadtheinvestmentsbeen
+heldintheUSindexinsteadoftheAsia-Paci
+
+cfund.
+While privatecompaniesinAsia-Paci
+
+ccandiffer
+frompublicNorth Americancompanies,Sorensen
+
+andJagannathan(
+2015
+)showthatanychangesin
+privateequitycash
+
+owbetaswhicharedueto
+changesin
+
+nancialleverage,operatingleverage,or
+thenatureofthebusinessareautomaticallytaken
+
+intoaccountinthePMEformulation. Thus,oneneed
+
+nothavepriorassumptionsaboutfundbetaswhen
+estimatingPMEs. Asofthe2000svintageyears,
+fundsfocusedonAsia-Paci
+
+cunderperformthe
+publicmarketandtheir PMEsdeclineovertimecom-
+paredtoboth regional andUSbenchmarks.Funds
+
+focusedonotherworldlocations(ROWgroup)have
+
+signi
+
+cantlyunderperformedrelativetothepublic
+marketacrossallbenchmarksandvintageyears,
+
+whereas globalandEuropeanfundshaveoutper-
+formedpublicmarkets acrossallregional andUS
+indicesandforallvintageyeargroupspriorto2010.
+
+Globalfundshaveparticularlycontinuedtooutper-
+
+formthepublicmarketovertime,whileNorth
+
+AmericanfundshavedecliningPMEs,althoughthey
+
+remainaboveoneonaverage.Morerecentvintages
+
+havePMEsbelowonebutmaymirrorthelowreali-
+zationratesofthesefunds;their ultimateperfor-
+mancewill materializeasthefundsmatureandtheir
+
+investmentsarerealized.
+GrowthEquityandVentureCapital.
+Table 5
+shows, b yin vestmentr egion, thechar acter isticsan d
+returnsofgrowthan dventurecap italfund sacrossthe
+
+sampleperiod. Growthequitydevelo pedmostinAsia-
+
+Paci
+
+ccomparedtoother worldregionsin termsof
+committedcapital,where fundshave accumulated
+
+morethan$6 5bi lli on,comparedto$2 5bi lli onfor
+
+globalfunds,followedbyEuropeandROW,at$18bil-
+lionand$10billionint ot alcommitment s,respectively.
+Thisre lative lyne winve st mentstyleismainlydirect ed
+
+towardcomp aniesinthelaterstagesoftheirgrowth.
+Inrecentwork,Lattanzioetal.(
+2023
+)particularly
+de
+
+neanddiscusstheriseofgrowth equityasasep-
+arate assetclasswithinprivateequity,alongsideven-
+
+turecapitalandbuyouts.Theyparticularlyhighlight
+
+therole ofgrowth equityfundsinprovidingalterna-
+
+tive
+
+nancingschemestothebackedcompaniesand
+showthattheyhavesimilaroperationsandstructure
+tobuyoutandventurecapitalfunds.Theyalsorank
+thetop10countriesconcentratingthemostgrowth
+
+equitydealsinnumberandvalue.Consistentwith
+
+their results,we
+
+ndthatNorth Americatopsthe
+rest ofinvestmentgeographiesbothintermsofthe
+
+numberoffundsandtotalcommitments.Asia-Paci
+
+c
+countsthemostgrowth fundsafterNorthAmerica,
+
+followedbyEurope,thenglobalandROWfunds.In
+oursample,growth fundshavemostlybeeninvested
+onaverage(morethan50%ofcommittedcapitalhas
+
+beencalledinallinvestmentgeographies),while
+
+North American,global,andAsia-Paci
+
+cfundscount
+thehighestrealizationrates(morethanone-thirdof
+
+totalfundvalueshavebeenrealized).Interestingly,
+
+growth fundsfocusedonAsia-Paci
+
+chavethebest
+returnsintermsofIRR,investmentmultiple,andthe
+relevantPMEmeasures.Asia-Paci
+
+cgrowth funds
+alsodobetteragainstregional fundscomparedto
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+109
+
+othergeographies.GrowthfundIRRsandinvestment
+multiplesinAsia-Paci
+
+cmirrorthoseobservedin
+NorthAmericabutunderperformbothAsianandUS
+publicequities.FortheROWgroup,growth funds
+haveunderperformedthepublicmarketandare
+lowerintermsofIRR,eventhoughtheyreturned
+abovethedollarintermsofinvestmentmultiple.
+
+Finally,globalfundsshowsimilarinvestmentmulti-
+plesthaninNorth America.Thesefundscanbea
+goodalternativefortheUS-basedinvestorswho
+Table 4.
+BuyoutFundsPMEs
+Asia-Pacific
+Vintageyeargroup
+No.of
+firms
+
+No.of
+funds
+S&P
+Asia
+MSCI
+Australasia S&P500
+Russell
+2000
+Russell
+2000 Value
+1980
+Œ
+1990
+ŒŒŒŒŒŒŒ
+1991
+Œ
+20005 5
+Œ
+1.431.401.201.10
+2001
+Œ
+200926 370.96 1.100.910.880.93
+2010
+Œ
+201845 680.55 0.590.520.530.55
+Overall601100.69 0.800.690.680.70
+Europe
+Vintage
+
+yeargroup
+No.of
+
+rms
+
+No.of
+funds
+S&P
+Europe
+MSCI
+Europe
+S&P500Russell
+2000
+Russell
+2000 Value
+1980
+Œ
+19902 21.05 1.071.000.940.90
+1991
+Œ
+200028 391.89 1.771.841.641.55
+2001
+Œ
+2009831191.24 1.311.081.051.11
+2010
+Œ
+2018117 1860.62 0.640.540.560.58
+Overall165 3460.98 1.000.880.850.88
+ROW
+Vintage
+
+yeargroup
+No.of
+
+rms
+
+No.of
+funds
+S&P
+World
+MSCI
+World
+S&P500Russell
+2000
+Russell
+2000 Value
+1980
+Œ
+1990
+ŒŒŒŒŒŒŒ
+1991
+Œ
+20005 70.70 0.690.690.620.56
+2001
+Œ
+20099 90.82 0.790.730.710.74
+2010
+Œ
+201819 280.36 0.360.340.350.37
+Overall26 440.51 0.500.470.460.48
+Global
+Vintage
+
+yeargroup
+No.of
+
+rms
+
+No.of
+funds
+S&P
+World
+MSCI
+World
+S&P500Russell
+2000
+Russell
+2000 Value
+1980
+Œ
+19901 11.18 1.331.211.221.13
+1991
+Œ
+200018 322.29 2.272.252.172.17
+2001
+Œ
+200930 462.55 2.502.412.392.44
+2010
+Œ
+201819 340.48 0.480.480.480.48
+Overall461131.87 1.841.801.761.79
+NorthAmerica
+Vintage
+
+yeargroup
+No.of
+
+rms
+
+No.of
+funds
+S&P500Russell
+2000
+Russell
+2000 Value
+1980
+Œ
+199023 362.102.152.05
+1991
+Œ
+2000139 2201.471.351.29
+2001
+Œ
+2009208 3151.251.211.28
+2010
+Œ
+2018276 4600.590.600.63
+Overall4271,0311.031.001.02
+Notes:
+
+Thetotalnumberof
+
+rmsmightdifferfromthesumaswereportthenumberofunique
+
+rms,andonefundcanbespon-
+soredbymore thanone
+
+rm.
+Thistableshowstheaveragefundpublicmarketequivalents(PME)measuredagainst regionalstockmarketbenchmarks,aswell
+
+asagainst thebroadUSpublicmarket(S&P500)andsmallerUSindices(Russell2000,andRussell2000Value).Resultsareshown
+byinvestmentgeographyandvintageyearperiod.ThedataareasofJuly2023.Thede
+
+nitionsofalltermsandvariablesarepro-
+videdin
+Table1
+.
+FinancialAnalystsJournal|
+APublicationof
+CFAInstitute
+110
+
+Table 5.
+ThePerformanceofGrowthandVentureCapitalFunds
+No.of
+firms
+No.of
+funds
+Committed
+capital
+(USDm)
+Average
+PIC
+Average
+realization
+rate
+Average
+IRR(%)
+Average
+MOICPME
+Asia-Paci
+
+c
+S&P
+Asia
+MSCI
+Australasia
+S&P500Russell
+2000
+Russell2000
+Growth
+GrowthEquity559165,658 75%29%12.371.470.760.900.700.700.66
+
+VentureCapital415520,224 70%22%7.111.330.680.750.650.640.63
+Europe
+S&P
+Europe
+MSCI
+Europe
+S&P500Russell
+2000
+Russell2000
+Growth
+GrowthEquity415318,488 56%21%9.911.230.680.700.620.620.61
+
+VentureCapital537714,375 59%22%7.241.220.720.740.630.620.61
+ROW
+S&P
+World
+MSCI
+World
+S&P500Russell
+2000
+Russell2000
+Growth
+GrowthEquity162210,274 69%22%9.761.380.490.470.460.440.44
+
+VentureCapital13285,75674%40%10.841.310.940.910.890.870.85
+Global
+S&P
+World
+MSCI
+World
+S&P500Russell
+2000
+Russell2000
+Growth
+GrowthEquity122325,525 73%40%1.831.380.680.670.660.650.65
+
+VentureCapital295532,303 84%65%13.702.011.461.461.441.431.43
+NorthAmerica
+S&P500Russell
+2000
+Russell2000
+Growth
+GrowthEquity143292287,41572%34%12.821.40 0.800.800.78
+
+VentureCapital375844350,85177%42%10.511.50 0.880.880.87
+Notes:
+ThistableshowstheaverageIRRsandinvestmentmultiplesofgrowthequityandventurecapitalfundsformedbetween1980and2018,byinvestmentgeog
+raphy.Thetotal
+committed capitalandtheaverageinvestmentandrealizationratesarealsoreported.WereporttheaveragefundPMEagainstregional publicmarketi
+ndicesandUSindices.The
+dataareasofJuly2023.Thede
+
+nitionsofall termsandvariablesareprovidedin
+Table1
+.
+PrivateEquityPerformancearoundtheWorld
+Volume80,Number2
+111
+
+targetaninternationalexposuretolater-stage,cash-
+positivecompaniesbutdonothaveaccesstolocal
+
+managersinspeci
+
+ctop-performinggeographies.
+For venturecapitalfunds,mostallocationshavebeen
+towardfundsthatarediversi
+
+edglobally,withmore
+than$32billionincommitmentsbetween1980and
+
+2018.Asia-Paci
+
+cisthesecondinvestmentdestina-
+tionintermsofcapitalcommitments,followedby
+
+Europe andROW.Internationalventurecapitalfunds
+
+aremostlyinvested,buttheyhavelowerrealization
+
+ratesthangrowth fundsinAsia-Paci
+
+candEurope.
+Lookingatfundreturns,globalfundshavethehigh-
+
+est IRRsandinvestmentmultiples,andtheyalsoout-
+
+performthepublicmarketusingbothUSandglobal
+
+benchmarks.Europeanventurecapitalfundsunder-
+
+performtheregional indicesandtheUSpublicmar-
+
+ketbenchmarksforboth thebroadindex(S&P500)
+
+andtheadjustedsizeandstrategyindices(Russell
+
+2000andRussell2000Growth).Venturecapital
+
+returnsrelativetothepublicmarketarebelowone
+
+inAsia-Paci
+
+candROW,regardlessoftheused
+benchmark.
+Inconclusion,internationalbuyoutfundshavethe
+bestperformancesinEurope,whichechoesthe
+
+nd-
+ingsofHarris,Jenkinson,andKaplan(
+2016
+).We
+
+nd
+thatglobalbuyoutfundshavealsohadbetterper-
+
+formancesthanNorth Americanfunds.Inthe
+
+Asia-Paci
+
+candROWgroups,buyoutfundperform-
+anceshavebeenlowerthaninotherinvestment
+
+regions.GrowthfundsperformbestinAsia-Paci
+
+c,
+whileventurecapitalfundshavethehighestreturns
+
+intheglobalfundsgroup.Withtheseresultsinhand,
+
+we test inthefollowing sectionwhetherthesepat-
+
+terns persistoverthefollow-ongenerationsoffunds.
+PerformancePersistence
+Fund performancepersistenceiscustomarilyesti-
+
+matedintheliteratureusingMarkovtransitionprob-
+
+abilities.Fundsthathaveatleast onefollow-onfund
+
+aresortedintoperformancequartiles.
+11
+Then,we
+estimatetheprobability
+P
+thatafollow-onfund
+F
+t
+þ
+1
+fallswithinanyofthefourquartiles(states),condi-
+tionalonitspreviousfund
+F
+t
+quartile:
+P
+ð
+F
+t
+þ
+1
+¼
+q
+j
+F
+t
+¼
+q
+t
+,
+F
+t
+
+1
+¼
+q
+t
+
+1
+,
+...
+,
+F
+0
+¼
+q
+0
+Þ
+¼
+P
+ð
+F
+t
+þ
+1
+¼
+q
+j
+F
+t
+¼
+q
+t
+Þ
+whereqdenotesfundstates
+q
+t
+forfundsequence
+numberst
+¼
+{1,2,
+–
+, n}.
+Transitionprobabilitiesmeasuretheabilityoffund
+managerstorepeat(withaprobabilitythatishigher
+than
+100
+%
+4
+¼
+25%,byconstruction),withinthesame
+performancequartile giventheir previousperfor-
+mancequartile.WeconductaPearsonchi-square
+test toassesswhetherperformancequartilesareran-
+domlyequalto25%,whichevaluatesperformance
+persistence.Asigni
+
+cant
+p
+valuefromthistest would
+indicatethattransitionprobabilitiesarenotrandom
+andthatthereisevidenceofpersistenceinfund
+returns.Alternatively,anonsigni
+
+cant
+p
+valuewould
+indicatethatperformancepersistenceisrandomfor
+theconsideredpopulationoffundsandthatfund
+managersdo notrepeatinaparticularquartile
+becauseofspeci
+
+cskill.For theseanalyses,we use
+thePMEmeasureagains
